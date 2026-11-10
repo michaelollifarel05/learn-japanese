@@ -1,0 +1,467 @@
+[
+  {
+    "id": "grammar-wa",
+    "title": "は · topik",
+    "explanation": "は menandai apa yang sedang dibicarakan. Sebagai partikel dibaca wa, bukan ha. Kata benda diakhiri です untuk pernyataan sopan.",
+    "pattern": "Topik + は + kata benda + です",
+    "tokens": [
+      "私",
+      "は",
+      "学生",
+      "です"
+    ],
+    "japanese": "私は学生です。",
+    "reading": "わたしはがくせいです。",
+    "romaji": "watashi wa gakusei desu",
+    "meaning": "Saya seorang pelajar.",
+    "gapIndex": 1,
+    "answer": "は",
+    "answerRomaji": "wa"
+  },
+  {
+    "id": "grammar-mo",
+    "title": "も · juga",
+    "explanation": "も berarti juga. Pada contoh ini も menggantikan は: orang lain pelajar, saya juga pelajar. Jangan menulis はも pada pola ini.",
+    "pattern": "Kata benda + も + kata benda + です",
+    "tokens": [
+      "私",
+      "も",
+      "学生",
+      "です"
+    ],
+    "japanese": "私も学生です。",
+    "reading": "わたしもがくせいです。",
+    "romaji": "watashi mo gakusei desu",
+    "meaning": "Saya juga seorang pelajar.",
+    "gapIndex": 1,
+    "answer": "も",
+    "answerRomaji": "mo"
+  },
+  {
+    "id": "grammar-to",
+    "title": "と · dan / bersama",
+    "explanation": "と menghubungkan kata benda sebagai daftar: A dan B. Jika setelah orang sebelum aktivitas, dapat berarti bersama orang itu. Contoh lain: ともだちといきます = pergi bersama teman.",
+    "pattern": "Kata benda + と + kata benda",
+    "tokens": [
+      "パン",
+      "と",
+      "卵",
+      "を",
+      "食べます"
+    ],
+    "japanese": "パンと卵を食べます。",
+    "reading": "パンとたまごをたべます。",
+    "romaji": "pan to tamago o tabemasu",
+    "meaning": "Saya makan roti dan telur.",
+    "gapIndex": 1,
+    "answer": "と",
+    "answerRomaji": "to"
+  },
+  {
+    "id": "grammar-o",
+    "title": "を · objek",
+    "explanation": "を menandai objek dari tindakan dan dibaca o. Letakkan kata kerja setelah objek dan partikelnya.",
+    "pattern": "Objek + を + kata kerja",
+    "tokens": [
+      "水",
+      "を",
+      "飲みます"
+    ],
+    "japanese": "水を飲みます。",
+    "reading": "みずをのみます。",
+    "romaji": "mizu o nomimasu",
+    "meaning": "Saya minum air.",
+    "gapIndex": 1,
+    "answer": "を",
+    "answerRomaji": "o"
+  },
+  {
+    "id": "grammar-ni",
+    "title": "に · tujuan / waktu",
+    "explanation": "に dapat menandai tujuan gerakan, waktu tertentu, atau lokasi keberadaan. Pada contoh ini menunjukkan tujuan. Contoh waktu: しちじにおきます = bangun pukul tujuh.",
+    "pattern": "Tujuan + に + 行きます",
+    "tokens": [
+      "学校",
+      "に",
+      "行きます"
+    ],
+    "japanese": "学校に行きます。",
+    "reading": "がっこうにいきます。",
+    "romaji": "gakkou ni ikimasu",
+    "meaning": "Saya pergi ke sekolah.",
+    "gapIndex": 1,
+    "answer": "に",
+    "answerRomaji": "ni"
+  },
+  {
+    "id": "grammar-e",
+    "title": "へ · arah",
+    "explanation": "へ sebagai partikel dibaca e dan menunjukkan arah tujuan gerakan. Dalam contoh ini に juga dapat digunakan, tetapi latihan ini meminta へ.",
+    "pattern": "Tempat + へ + 行きます",
+    "tokens": [
+      "日本",
+      "へ",
+      "行きます"
+    ],
+    "japanese": "日本へ行きます。",
+    "reading": "にほんへいきます。",
+    "romaji": "nihon e ikimasu",
+    "meaning": "Saya pergi ke Jepang.",
+    "gapIndex": 1,
+    "answer": "へ",
+    "answerRomaji": "e"
+  },
+  {
+    "id": "grammar-de",
+    "title": "で · lokasi aktivitas / alat",
+    "explanation": "で menunjukkan tempat aktivitas berlangsung. Bedakan dengan に pada lokasi keberadaan. で juga bisa menandai sarana: バスでいきます = pergi dengan bus.",
+    "pattern": "Tempat + で + objek + を + kata kerja",
+    "tokens": [
+      "図書館",
+      "で",
+      "本",
+      "を",
+      "読みます"
+    ],
+    "japanese": "図書館で本を読みます。",
+    "reading": "としょかんでほんをよみます。",
+    "romaji": "toshokan de hon o yomimasu",
+    "meaning": "Saya membaca buku di perpustakaan.",
+    "gapIndex": 1,
+    "answer": "で",
+    "answerRomaji": "de"
+  },
+  {
+    "id": "grammar-no",
+    "title": "の · kepemilikan",
+    "explanation": "の menghubungkan kata benda: pemilik diletakkan dahulu. わたしのほん berarti buku saya. の juga dapat menerangkan jenis atau hubungan antarkata benda.",
+    "pattern": "Pemilik + の + benda",
+    "tokens": [
+      "これ",
+      "は",
+      "私",
+      "の",
+      "本",
+      "です"
+    ],
+    "japanese": "これは私の本です。",
+    "reading": "これはわたしのほんです。",
+    "romaji": "kore wa watashi no hon desu",
+    "meaning": "Ini buku saya.",
+    "gapIndex": 3,
+    "answer": "の",
+    "answerRomaji": "no"
+  },
+  {
+    "id": "grammar-ga",
+    "title": "が · keberadaan",
+    "explanation": "が menandai subjek yang diperkenalkan, misalnya apa atau siapa yang ada. は dan が tidak selalu dapat ditukar; mulai dengan pola keberadaan ini.",
+    "pattern": "Makhluk hidup + が + います",
+    "tokens": [
+      "猫",
+      "が",
+      "います"
+    ],
+    "japanese": "猫がいます。",
+    "reading": "ねこがいます。",
+    "romaji": "neko ga imasu",
+    "meaning": "Ada kucing.",
+    "gapIndex": 1,
+    "answer": "が",
+    "answerRomaji": "ga"
+  },
+  {
+    "id": "grammar-ka",
+    "title": "か · pertanyaan",
+    "explanation": "Tambahkan か di akhir kalimat sopan untuk bertanya. Dalam tulisan Jepang, tanda 。 tetap dapat digunakan pada pertanyaan.",
+    "pattern": "Kalimat sopan + か",
+    "tokens": [
+      "学生",
+      "です",
+      "か"
+    ],
+    "japanese": "学生ですか。",
+    "reading": "がくせいですか。",
+    "romaji": "gakusei desu ka",
+    "meaning": "Apakah kamu seorang pelajar?",
+    "gapIndex": 2,
+    "answer": "か",
+    "answerRomaji": "ka"
+  },
+  {
+    "id": "grammar-kara",
+    "title": "から · dari",
+    "explanation": "から menandai titik awal tempat atau waktu. Dalam pola lain setelah kalimat, から dapat menyatakan alasan (karena).",
+    "pattern": "Awal + から + akhir + まで",
+    "tokens": [
+      "九時",
+      "から",
+      "五時",
+      "まで",
+      "働きます"
+    ],
+    "japanese": "九時から五時まで働きます。",
+    "reading": "くじからごじまではたらきます。",
+    "romaji": "kuji kara goji made hatarakimasu",
+    "meaning": "Saya bekerja dari pukul sembilan sampai lima.",
+    "gapIndex": 1,
+    "answer": "から",
+    "answerRomaji": "kara"
+  },
+  {
+    "id": "grammar-made",
+    "title": "まで · sampai",
+    "explanation": "まで menandai batas akhir. Gabungkan dengan から untuk menyatakan rentang waktu atau tempat.",
+    "pattern": "Awal + から + akhir + まで",
+    "tokens": [
+      "月曜日",
+      "から",
+      "金曜日",
+      "まで",
+      "勉強します"
+    ],
+    "japanese": "月曜日から金曜日まで勉強します。",
+    "reading": "げつようびからきんようびまでべんきょうします。",
+    "romaji": "getsuyoubi kara kinyoubi made benkyou shimasu",
+    "meaning": "Saya belajar dari Senin sampai Jumat.",
+    "gapIndex": 3,
+    "answer": "まで",
+    "answerRomaji": "made"
+  },
+  {
+    "id": "grammar-negative-noun",
+    "title": "Bukan · ではありません",
+    "explanation": "Untuk menegasikan kata benda, ganti です dengan ではありません. Bentuk percakapan yang umum adalah じゃありません.",
+    "pattern": "Kata benda + ではありません",
+    "tokens": [
+      "私",
+      "は",
+      "先生",
+      "ではありません"
+    ],
+    "japanese": "私は先生ではありません。",
+    "reading": "わたしはせんせいではありません。",
+    "romaji": "watashi wa sensei dewa arimasen",
+    "meaning": "Saya bukan guru.",
+    "gapIndex": 3,
+    "answer": "ではありません",
+    "answerRomaji": "dewa arimasen"
+  },
+  {
+    "id": "grammar-verb-negative",
+    "title": "Kata kerja · ます / ません",
+    "explanation": "Bentuk sopan positif berakhir ます; negatif berakhir ません. Pelajari pasangan kata kerja secara utuh: たべます → たべません. Jangan mengganti akhiran kamus secara sembarang.",
+    "pattern": "Objek + を + kata kerja bentuk ません",
+    "tokens": [
+      "肉",
+      "を",
+      "食べません"
+    ],
+    "japanese": "肉を食べません。",
+    "reading": "にくをたべません。",
+    "romaji": "niku o tabemasen",
+    "meaning": "Saya tidak makan daging.",
+    "gapIndex": 2,
+    "answer": "食べません",
+    "answerRomaji": "tabemasen"
+  },
+  {
+    "id": "grammar-past",
+    "title": "Lampau · ました",
+    "explanation": "Untuk kata kerja sopan, ます menjadi ました pada lampau positif. Lampau negatif memakai ませんでした.",
+    "pattern": "Keterangan waktu + objek + を + kata kerja bentuk ました",
+    "tokens": [
+      "昨日",
+      "、本",
+      "を",
+      "読みました"
+    ],
+    "japanese": "昨日、本を読みました。",
+    "reading": "きのう、ほんをよみました。",
+    "romaji": "kinou hon o yomimashita",
+    "meaning": "Kemarin saya membaca buku.",
+    "gapIndex": 3,
+    "answer": "読みました",
+    "answerRomaji": "yomimashita"
+  },
+  {
+    "id": "grammar-i-adjective",
+    "title": "Kata sifat-i",
+    "explanation": "Kata sifat-i dapat diakhiri です untuk bentuk sopan. Untuk negatif, い biasanya menjadi くない: たかい → たかくないです. いい memiliki bentuk negatif よくないです.",
+    "pattern": "Topik + は + kata sifat-i + です",
+    "tokens": [
+      "この本",
+      "は",
+      "高い",
+      "です"
+    ],
+    "japanese": "この本は高いです。",
+    "reading": "このほんはたかいです。",
+    "romaji": "kono hon wa takai desu",
+    "meaning": "Buku ini mahal.",
+    "gapIndex": 2,
+    "answer": "高い",
+    "answerRomaji": "takai"
+  },
+  {
+    "id": "grammar-na-adjective",
+    "title": "Kata sifat-na",
+    "explanation": "Sebelum kata benda, kata sifat-na memakai な: しずかなまち. Di akhir kalimat gunakan しずかです, bukan しずかなです.",
+    "pattern": "Kata sifat-na + な + kata benda",
+    "tokens": [
+      "ここ",
+      "は",
+      "静か",
+      "な",
+      "町",
+      "です"
+    ],
+    "japanese": "ここは静かな町です。",
+    "reading": "ここはしずかなまちです。",
+    "romaji": "koko wa shizuka na machi desu",
+    "meaning": "Di sini adalah kota yang tenang.",
+    "gapIndex": 3,
+    "answer": "な",
+    "answerRomaji": "na"
+  },
+  {
+    "id": "grammar-arimasu",
+    "title": "あります · benda",
+    "explanation": "Gunakan あります untuk keberadaan benda dan tumbuhan. Gunakan います untuk manusia atau hewan. Lokasi keberadaan ditandai に.",
+    "pattern": "Tempat + に + benda + が + あります",
+    "tokens": [
+      "机の上",
+      "に",
+      "本",
+      "が",
+      "あります"
+    ],
+    "japanese": "机の上に本があります。",
+    "reading": "つくえのうえにほんがあります。",
+    "romaji": "tsukue no ue ni hon ga arimasu",
+    "meaning": "Ada buku di atas meja.",
+    "gapIndex": 4,
+    "answer": "あります",
+    "answerRomaji": "arimasu"
+  },
+  {
+    "id": "grammar-te-kudasai",
+    "title": "てください · permintaan",
+    "explanation": "Bentuk-te + ください menyatakan permintaan sopan. 読む → 読んで. Bentuk-te berubah menurut kelompok kata kerja; ini bukan sekadar menambahkan て.",
+    "pattern": "Kata kerja bentuk-te + ください",
+    "tokens": [
+      "この本",
+      "を",
+      "読んで",
+      "ください"
+    ],
+    "japanese": "この本を読んでください。",
+    "reading": "このほんをよんでください。",
+    "romaji": "kono hon o yonde kudasai",
+    "meaning": "Tolong baca buku ini.",
+    "gapIndex": 3,
+    "answer": "ください",
+    "answerRomaji": "kudasai"
+  },
+  {
+    "id": "grammar-te-mo-ii",
+    "title": "てもいいです · izin",
+    "explanation": "Bentuk-te + もいいです berarti boleh melakukan sesuatu. Tambah か untuk meminta izin. Di sini 食べる → 食べて.",
+    "pattern": "Kata kerja bentuk-te + も + いいです + か",
+    "tokens": [
+      "ここ",
+      "で",
+      "食べて",
+      "も",
+      "いいです",
+      "か"
+    ],
+    "japanese": "ここで食べてもいいですか。",
+    "reading": "ここでたべてもいいですか。",
+    "romaji": "koko de tabete mo ii desu ka",
+    "meaning": "Bolehkah saya makan di sini?",
+    "gapIndex": 3,
+    "answer": "も",
+    "answerRomaji": "mo"
+  },
+  {
+    "id": "grammar-tai",
+    "title": "たい · keinginan",
+    "explanation": "Gunakan pangkal bentuk-masu + たいです untuk keinginan diri sendiri: いきます → いきたいです. Bentuk negatifnya いきたくないです.",
+    "pattern": "Tujuan + に + pangkal kata kerja + たいです",
+    "tokens": [
+      "日本",
+      "に",
+      "行き",
+      "たいです"
+    ],
+    "japanese": "日本に行きたいです。",
+    "reading": "にほんにいきたいです。",
+    "romaji": "nihon ni ikitai desu",
+    "meaning": "Saya ingin pergi ke Jepang.",
+    "gapIndex": 3,
+    "answer": "たいです",
+    "answerRomaji": "tai desu"
+  },
+  {
+    "id": "grammar-soshite",
+    "title": "そして · dan kemudian",
+    "explanation": "そして menyambung dua pernyataan atau aktivitas berurutan. Berbeda dari と yang pada pelajaran awal menghubungkan kata benda.",
+    "pattern": "Kalimat pertama。 + そして、 + kalimat kedua。",
+    "tokens": [
+      "朝ご飯",
+      "を",
+      "食べます。",
+      "そして、",
+      "学校",
+      "に",
+      "行きます"
+    ],
+    "japanese": "朝ご飯を食べます。そして、学校に行きます。",
+    "reading": "あさごはんをたべます。そして、がっこうにいきます。",
+    "romaji": "asagohan o tabemasu soshite gakkou ni ikimasu",
+    "meaning": "Saya sarapan. Kemudian saya pergi ke sekolah.",
+    "gapIndex": 3,
+    "answer": "そして、",
+    "answerRomaji": "soshite"
+  },
+  {
+    "id": "grammar-demo",
+    "title": "でも · tetapi",
+    "explanation": "でも pada awal kalimat berarti tetapi. Di sini menghubungkan dua kalimat yang berlawanan. Jangan menyamakan semua penggunaan でも dengan fungsi ini.",
+    "pattern": "Kalimat pertama。 + でも、 + kalimat kedua。",
+    "tokens": [
+      "この本",
+      "は",
+      "高いです。",
+      "でも、",
+      "面白いです"
+    ],
+    "japanese": "この本は高いです。でも、面白いです。",
+    "reading": "このほんはたかいです。でも、おもしろいです。",
+    "romaji": "kono hon wa takai desu demo omoshiroi desu",
+    "meaning": "Buku ini mahal. Tetapi menarik.",
+    "gapIndex": 3,
+    "answer": "でも、",
+    "answerRomaji": "demo"
+  },
+  {
+    "id": "grammar-reason",
+    "title": "から · karena",
+    "explanation": "Kalimat alasan + から diikuti akibat atau keputusan. Ini berbeda dari から yang berarti dari pada rentang waktu.",
+    "pattern": "Alasan + から、 + akibat",
+    "tokens": [
+      "雨",
+      "です",
+      "から、",
+      "行きません"
+    ],
+    "japanese": "雨ですから、行きません。",
+    "reading": "あめですから、いきません。",
+    "romaji": "ame desu kara ikimasen",
+    "meaning": "Karena hujan, saya tidak pergi.",
+    "gapIndex": 2,
+    "answer": "から、",
+    "answerRomaji": "kara"
+  }
+]

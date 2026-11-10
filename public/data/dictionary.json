@@ -1,0 +1,3594 @@
+[
+  {
+    "id": "hiragana-0",
+    "category": "hiragana",
+    "japanese": "あ",
+    "reading": "あ",
+    "romaji": "a",
+    "meaning": "Bunyi a"
+  },
+  {
+    "id": "katakana-1",
+    "category": "katakana",
+    "japanese": "ア",
+    "reading": "ア",
+    "romaji": "a",
+    "meaning": "Bunyi a"
+  },
+  {
+    "id": "hiragana-2",
+    "category": "hiragana",
+    "japanese": "い",
+    "reading": "い",
+    "romaji": "i",
+    "meaning": "Bunyi i"
+  },
+  {
+    "id": "katakana-3",
+    "category": "katakana",
+    "japanese": "イ",
+    "reading": "イ",
+    "romaji": "i",
+    "meaning": "Bunyi i"
+  },
+  {
+    "id": "hiragana-4",
+    "category": "hiragana",
+    "japanese": "う",
+    "reading": "う",
+    "romaji": "u",
+    "meaning": "Bunyi u"
+  },
+  {
+    "id": "katakana-5",
+    "category": "katakana",
+    "japanese": "ウ",
+    "reading": "ウ",
+    "romaji": "u",
+    "meaning": "Bunyi u"
+  },
+  {
+    "id": "hiragana-6",
+    "category": "hiragana",
+    "japanese": "え",
+    "reading": "え",
+    "romaji": "e",
+    "meaning": "Bunyi e"
+  },
+  {
+    "id": "katakana-7",
+    "category": "katakana",
+    "japanese": "エ",
+    "reading": "エ",
+    "romaji": "e",
+    "meaning": "Bunyi e"
+  },
+  {
+    "id": "hiragana-8",
+    "category": "hiragana",
+    "japanese": "お",
+    "reading": "お",
+    "romaji": "o",
+    "meaning": "Bunyi o"
+  },
+  {
+    "id": "katakana-9",
+    "category": "katakana",
+    "japanese": "オ",
+    "reading": "オ",
+    "romaji": "o",
+    "meaning": "Bunyi o"
+  },
+  {
+    "id": "hiragana-10",
+    "category": "hiragana",
+    "japanese": "か",
+    "reading": "か",
+    "romaji": "ka",
+    "meaning": "Bunyi ka"
+  },
+  {
+    "id": "katakana-11",
+    "category": "katakana",
+    "japanese": "カ",
+    "reading": "カ",
+    "romaji": "ka",
+    "meaning": "Bunyi ka"
+  },
+  {
+    "id": "hiragana-12",
+    "category": "hiragana",
+    "japanese": "き",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "Bunyi ki"
+  },
+  {
+    "id": "katakana-13",
+    "category": "katakana",
+    "japanese": "キ",
+    "reading": "キ",
+    "romaji": "ki",
+    "meaning": "Bunyi ki"
+  },
+  {
+    "id": "hiragana-14",
+    "category": "hiragana",
+    "japanese": "く",
+    "reading": "く",
+    "romaji": "ku",
+    "meaning": "Bunyi ku"
+  },
+  {
+    "id": "katakana-15",
+    "category": "katakana",
+    "japanese": "ク",
+    "reading": "ク",
+    "romaji": "ku",
+    "meaning": "Bunyi ku"
+  },
+  {
+    "id": "hiragana-16",
+    "category": "hiragana",
+    "japanese": "け",
+    "reading": "け",
+    "romaji": "ke",
+    "meaning": "Bunyi ke"
+  },
+  {
+    "id": "katakana-17",
+    "category": "katakana",
+    "japanese": "ケ",
+    "reading": "ケ",
+    "romaji": "ke",
+    "meaning": "Bunyi ke"
+  },
+  {
+    "id": "hiragana-18",
+    "category": "hiragana",
+    "japanese": "こ",
+    "reading": "こ",
+    "romaji": "ko",
+    "meaning": "Bunyi ko"
+  },
+  {
+    "id": "katakana-19",
+    "category": "katakana",
+    "japanese": "コ",
+    "reading": "コ",
+    "romaji": "ko",
+    "meaning": "Bunyi ko"
+  },
+  {
+    "id": "hiragana-20",
+    "category": "hiragana",
+    "japanese": "さ",
+    "reading": "さ",
+    "romaji": "sa",
+    "meaning": "Bunyi sa"
+  },
+  {
+    "id": "katakana-21",
+    "category": "katakana",
+    "japanese": "サ",
+    "reading": "サ",
+    "romaji": "sa",
+    "meaning": "Bunyi sa"
+  },
+  {
+    "id": "hiragana-22",
+    "category": "hiragana",
+    "japanese": "し",
+    "reading": "し",
+    "romaji": "shi",
+    "meaning": "Bunyi shi"
+  },
+  {
+    "id": "katakana-23",
+    "category": "katakana",
+    "japanese": "シ",
+    "reading": "シ",
+    "romaji": "shi",
+    "meaning": "Bunyi shi"
+  },
+  {
+    "id": "hiragana-24",
+    "category": "hiragana",
+    "japanese": "す",
+    "reading": "す",
+    "romaji": "su",
+    "meaning": "Bunyi su"
+  },
+  {
+    "id": "katakana-25",
+    "category": "katakana",
+    "japanese": "ス",
+    "reading": "ス",
+    "romaji": "su",
+    "meaning": "Bunyi su"
+  },
+  {
+    "id": "hiragana-26",
+    "category": "hiragana",
+    "japanese": "せ",
+    "reading": "せ",
+    "romaji": "se",
+    "meaning": "Bunyi se"
+  },
+  {
+    "id": "katakana-27",
+    "category": "katakana",
+    "japanese": "セ",
+    "reading": "セ",
+    "romaji": "se",
+    "meaning": "Bunyi se"
+  },
+  {
+    "id": "hiragana-28",
+    "category": "hiragana",
+    "japanese": "そ",
+    "reading": "そ",
+    "romaji": "so",
+    "meaning": "Bunyi so"
+  },
+  {
+    "id": "katakana-29",
+    "category": "katakana",
+    "japanese": "ソ",
+    "reading": "ソ",
+    "romaji": "so",
+    "meaning": "Bunyi so"
+  },
+  {
+    "id": "hiragana-30",
+    "category": "hiragana",
+    "japanese": "た",
+    "reading": "た",
+    "romaji": "ta",
+    "meaning": "Bunyi ta"
+  },
+  {
+    "id": "katakana-31",
+    "category": "katakana",
+    "japanese": "タ",
+    "reading": "タ",
+    "romaji": "ta",
+    "meaning": "Bunyi ta"
+  },
+  {
+    "id": "hiragana-32",
+    "category": "hiragana",
+    "japanese": "ち",
+    "reading": "ち",
+    "romaji": "chi",
+    "meaning": "Bunyi chi"
+  },
+  {
+    "id": "katakana-33",
+    "category": "katakana",
+    "japanese": "チ",
+    "reading": "チ",
+    "romaji": "chi",
+    "meaning": "Bunyi chi"
+  },
+  {
+    "id": "hiragana-34",
+    "category": "hiragana",
+    "japanese": "つ",
+    "reading": "つ",
+    "romaji": "tsu",
+    "meaning": "Bunyi tsu"
+  },
+  {
+    "id": "katakana-35",
+    "category": "katakana",
+    "japanese": "ツ",
+    "reading": "ツ",
+    "romaji": "tsu",
+    "meaning": "Bunyi tsu"
+  },
+  {
+    "id": "hiragana-36",
+    "category": "hiragana",
+    "japanese": "て",
+    "reading": "て",
+    "romaji": "te",
+    "meaning": "Bunyi te"
+  },
+  {
+    "id": "katakana-37",
+    "category": "katakana",
+    "japanese": "テ",
+    "reading": "テ",
+    "romaji": "te",
+    "meaning": "Bunyi te"
+  },
+  {
+    "id": "hiragana-38",
+    "category": "hiragana",
+    "japanese": "と",
+    "reading": "と",
+    "romaji": "to",
+    "meaning": "Bunyi to"
+  },
+  {
+    "id": "katakana-39",
+    "category": "katakana",
+    "japanese": "ト",
+    "reading": "ト",
+    "romaji": "to",
+    "meaning": "Bunyi to"
+  },
+  {
+    "id": "hiragana-40",
+    "category": "hiragana",
+    "japanese": "な",
+    "reading": "な",
+    "romaji": "na",
+    "meaning": "Bunyi na"
+  },
+  {
+    "id": "katakana-41",
+    "category": "katakana",
+    "japanese": "ナ",
+    "reading": "ナ",
+    "romaji": "na",
+    "meaning": "Bunyi na"
+  },
+  {
+    "id": "hiragana-42",
+    "category": "hiragana",
+    "japanese": "に",
+    "reading": "に",
+    "romaji": "ni",
+    "meaning": "Bunyi ni"
+  },
+  {
+    "id": "katakana-43",
+    "category": "katakana",
+    "japanese": "ニ",
+    "reading": "ニ",
+    "romaji": "ni",
+    "meaning": "Bunyi ni"
+  },
+  {
+    "id": "hiragana-44",
+    "category": "hiragana",
+    "japanese": "ぬ",
+    "reading": "ぬ",
+    "romaji": "nu",
+    "meaning": "Bunyi nu"
+  },
+  {
+    "id": "katakana-45",
+    "category": "katakana",
+    "japanese": "ヌ",
+    "reading": "ヌ",
+    "romaji": "nu",
+    "meaning": "Bunyi nu"
+  },
+  {
+    "id": "hiragana-46",
+    "category": "hiragana",
+    "japanese": "ね",
+    "reading": "ね",
+    "romaji": "ne",
+    "meaning": "Bunyi ne"
+  },
+  {
+    "id": "katakana-47",
+    "category": "katakana",
+    "japanese": "ネ",
+    "reading": "ネ",
+    "romaji": "ne",
+    "meaning": "Bunyi ne"
+  },
+  {
+    "id": "hiragana-48",
+    "category": "hiragana",
+    "japanese": "の",
+    "reading": "の",
+    "romaji": "no",
+    "meaning": "Bunyi no"
+  },
+  {
+    "id": "katakana-49",
+    "category": "katakana",
+    "japanese": "ノ",
+    "reading": "ノ",
+    "romaji": "no",
+    "meaning": "Bunyi no"
+  },
+  {
+    "id": "hiragana-50",
+    "category": "hiragana",
+    "japanese": "は",
+    "reading": "は",
+    "romaji": "ha",
+    "meaning": "Bunyi ha"
+  },
+  {
+    "id": "katakana-51",
+    "category": "katakana",
+    "japanese": "ハ",
+    "reading": "ハ",
+    "romaji": "ha",
+    "meaning": "Bunyi ha"
+  },
+  {
+    "id": "hiragana-52",
+    "category": "hiragana",
+    "japanese": "ひ",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "Bunyi hi"
+  },
+  {
+    "id": "katakana-53",
+    "category": "katakana",
+    "japanese": "ヒ",
+    "reading": "ヒ",
+    "romaji": "hi",
+    "meaning": "Bunyi hi"
+  },
+  {
+    "id": "hiragana-54",
+    "category": "hiragana",
+    "japanese": "ふ",
+    "reading": "ふ",
+    "romaji": "fu",
+    "meaning": "Bunyi fu"
+  },
+  {
+    "id": "katakana-55",
+    "category": "katakana",
+    "japanese": "フ",
+    "reading": "フ",
+    "romaji": "fu",
+    "meaning": "Bunyi fu"
+  },
+  {
+    "id": "hiragana-56",
+    "category": "hiragana",
+    "japanese": "へ",
+    "reading": "へ",
+    "romaji": "he",
+    "meaning": "Bunyi he"
+  },
+  {
+    "id": "katakana-57",
+    "category": "katakana",
+    "japanese": "ヘ",
+    "reading": "ヘ",
+    "romaji": "he",
+    "meaning": "Bunyi he"
+  },
+  {
+    "id": "hiragana-58",
+    "category": "hiragana",
+    "japanese": "ほ",
+    "reading": "ほ",
+    "romaji": "ho",
+    "meaning": "Bunyi ho"
+  },
+  {
+    "id": "katakana-59",
+    "category": "katakana",
+    "japanese": "ホ",
+    "reading": "ホ",
+    "romaji": "ho",
+    "meaning": "Bunyi ho"
+  },
+  {
+    "id": "hiragana-60",
+    "category": "hiragana",
+    "japanese": "ま",
+    "reading": "ま",
+    "romaji": "ma",
+    "meaning": "Bunyi ma"
+  },
+  {
+    "id": "katakana-61",
+    "category": "katakana",
+    "japanese": "マ",
+    "reading": "マ",
+    "romaji": "ma",
+    "meaning": "Bunyi ma"
+  },
+  {
+    "id": "hiragana-62",
+    "category": "hiragana",
+    "japanese": "み",
+    "reading": "み",
+    "romaji": "mi",
+    "meaning": "Bunyi mi"
+  },
+  {
+    "id": "katakana-63",
+    "category": "katakana",
+    "japanese": "ミ",
+    "reading": "ミ",
+    "romaji": "mi",
+    "meaning": "Bunyi mi"
+  },
+  {
+    "id": "hiragana-64",
+    "category": "hiragana",
+    "japanese": "む",
+    "reading": "む",
+    "romaji": "mu",
+    "meaning": "Bunyi mu"
+  },
+  {
+    "id": "katakana-65",
+    "category": "katakana",
+    "japanese": "ム",
+    "reading": "ム",
+    "romaji": "mu",
+    "meaning": "Bunyi mu"
+  },
+  {
+    "id": "hiragana-66",
+    "category": "hiragana",
+    "japanese": "め",
+    "reading": "め",
+    "romaji": "me",
+    "meaning": "Bunyi me"
+  },
+  {
+    "id": "katakana-67",
+    "category": "katakana",
+    "japanese": "メ",
+    "reading": "メ",
+    "romaji": "me",
+    "meaning": "Bunyi me"
+  },
+  {
+    "id": "hiragana-68",
+    "category": "hiragana",
+    "japanese": "も",
+    "reading": "も",
+    "romaji": "mo",
+    "meaning": "Bunyi mo"
+  },
+  {
+    "id": "katakana-69",
+    "category": "katakana",
+    "japanese": "モ",
+    "reading": "モ",
+    "romaji": "mo",
+    "meaning": "Bunyi mo"
+  },
+  {
+    "id": "hiragana-70",
+    "category": "hiragana",
+    "japanese": "や",
+    "reading": "や",
+    "romaji": "ya",
+    "meaning": "Bunyi ya"
+  },
+  {
+    "id": "katakana-71",
+    "category": "katakana",
+    "japanese": "ヤ",
+    "reading": "ヤ",
+    "romaji": "ya",
+    "meaning": "Bunyi ya"
+  },
+  {
+    "id": "hiragana-72",
+    "category": "hiragana",
+    "japanese": "ゆ",
+    "reading": "ゆ",
+    "romaji": "yu",
+    "meaning": "Bunyi yu"
+  },
+  {
+    "id": "katakana-73",
+    "category": "katakana",
+    "japanese": "ユ",
+    "reading": "ユ",
+    "romaji": "yu",
+    "meaning": "Bunyi yu"
+  },
+  {
+    "id": "hiragana-74",
+    "category": "hiragana",
+    "japanese": "よ",
+    "reading": "よ",
+    "romaji": "yo",
+    "meaning": "Bunyi yo"
+  },
+  {
+    "id": "katakana-75",
+    "category": "katakana",
+    "japanese": "ヨ",
+    "reading": "ヨ",
+    "romaji": "yo",
+    "meaning": "Bunyi yo"
+  },
+  {
+    "id": "hiragana-76",
+    "category": "hiragana",
+    "japanese": "ら",
+    "reading": "ら",
+    "romaji": "ra",
+    "meaning": "Bunyi ra"
+  },
+  {
+    "id": "katakana-77",
+    "category": "katakana",
+    "japanese": "ラ",
+    "reading": "ラ",
+    "romaji": "ra",
+    "meaning": "Bunyi ra"
+  },
+  {
+    "id": "hiragana-78",
+    "category": "hiragana",
+    "japanese": "り",
+    "reading": "り",
+    "romaji": "ri",
+    "meaning": "Bunyi ri"
+  },
+  {
+    "id": "katakana-79",
+    "category": "katakana",
+    "japanese": "リ",
+    "reading": "リ",
+    "romaji": "ri",
+    "meaning": "Bunyi ri"
+  },
+  {
+    "id": "hiragana-80",
+    "category": "hiragana",
+    "japanese": "る",
+    "reading": "る",
+    "romaji": "ru",
+    "meaning": "Bunyi ru"
+  },
+  {
+    "id": "katakana-81",
+    "category": "katakana",
+    "japanese": "ル",
+    "reading": "ル",
+    "romaji": "ru",
+    "meaning": "Bunyi ru"
+  },
+  {
+    "id": "hiragana-82",
+    "category": "hiragana",
+    "japanese": "れ",
+    "reading": "れ",
+    "romaji": "re",
+    "meaning": "Bunyi re"
+  },
+  {
+    "id": "katakana-83",
+    "category": "katakana",
+    "japanese": "レ",
+    "reading": "レ",
+    "romaji": "re",
+    "meaning": "Bunyi re"
+  },
+  {
+    "id": "hiragana-84",
+    "category": "hiragana",
+    "japanese": "ろ",
+    "reading": "ろ",
+    "romaji": "ro",
+    "meaning": "Bunyi ro"
+  },
+  {
+    "id": "katakana-85",
+    "category": "katakana",
+    "japanese": "ロ",
+    "reading": "ロ",
+    "romaji": "ro",
+    "meaning": "Bunyi ro"
+  },
+  {
+    "id": "hiragana-86",
+    "category": "hiragana",
+    "japanese": "わ",
+    "reading": "わ",
+    "romaji": "wa",
+    "meaning": "Bunyi wa"
+  },
+  {
+    "id": "katakana-87",
+    "category": "katakana",
+    "japanese": "ワ",
+    "reading": "ワ",
+    "romaji": "wa",
+    "meaning": "Bunyi wa"
+  },
+  {
+    "id": "hiragana-88",
+    "category": "hiragana",
+    "japanese": "を",
+    "reading": "を",
+    "romaji": "wo",
+    "meaning": "Bunyi wo"
+  },
+  {
+    "id": "katakana-89",
+    "category": "katakana",
+    "japanese": "ヲ",
+    "reading": "ヲ",
+    "romaji": "wo",
+    "meaning": "Bunyi wo"
+  },
+  {
+    "id": "hiragana-90",
+    "category": "hiragana",
+    "japanese": "ん",
+    "reading": "ん",
+    "romaji": "n",
+    "meaning": "Bunyi n"
+  },
+  {
+    "id": "katakana-91",
+    "category": "katakana",
+    "japanese": "ン",
+    "reading": "ン",
+    "romaji": "n",
+    "meaning": "Bunyi n"
+  },
+  {
+    "id": "hiragana-92",
+    "category": "hiragana",
+    "japanese": "が",
+    "reading": "が",
+    "romaji": "ga",
+    "meaning": "Bunyi ga"
+  },
+  {
+    "id": "katakana-93",
+    "category": "katakana",
+    "japanese": "ガ",
+    "reading": "ガ",
+    "romaji": "ga",
+    "meaning": "Bunyi ga"
+  },
+  {
+    "id": "hiragana-94",
+    "category": "hiragana",
+    "japanese": "ぎ",
+    "reading": "ぎ",
+    "romaji": "gi",
+    "meaning": "Bunyi gi"
+  },
+  {
+    "id": "katakana-95",
+    "category": "katakana",
+    "japanese": "ギ",
+    "reading": "ギ",
+    "romaji": "gi",
+    "meaning": "Bunyi gi"
+  },
+  {
+    "id": "hiragana-96",
+    "category": "hiragana",
+    "japanese": "ぐ",
+    "reading": "ぐ",
+    "romaji": "gu",
+    "meaning": "Bunyi gu"
+  },
+  {
+    "id": "katakana-97",
+    "category": "katakana",
+    "japanese": "グ",
+    "reading": "グ",
+    "romaji": "gu",
+    "meaning": "Bunyi gu"
+  },
+  {
+    "id": "hiragana-98",
+    "category": "hiragana",
+    "japanese": "げ",
+    "reading": "げ",
+    "romaji": "ge",
+    "meaning": "Bunyi ge"
+  },
+  {
+    "id": "katakana-99",
+    "category": "katakana",
+    "japanese": "ゲ",
+    "reading": "ゲ",
+    "romaji": "ge",
+    "meaning": "Bunyi ge"
+  },
+  {
+    "id": "hiragana-100",
+    "category": "hiragana",
+    "japanese": "ご",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "Bunyi go"
+  },
+  {
+    "id": "katakana-101",
+    "category": "katakana",
+    "japanese": "ゴ",
+    "reading": "ゴ",
+    "romaji": "go",
+    "meaning": "Bunyi go"
+  },
+  {
+    "id": "hiragana-102",
+    "category": "hiragana",
+    "japanese": "ざ",
+    "reading": "ざ",
+    "romaji": "za",
+    "meaning": "Bunyi za"
+  },
+  {
+    "id": "katakana-103",
+    "category": "katakana",
+    "japanese": "ザ",
+    "reading": "ザ",
+    "romaji": "za",
+    "meaning": "Bunyi za"
+  },
+  {
+    "id": "hiragana-104",
+    "category": "hiragana",
+    "japanese": "じ",
+    "reading": "じ",
+    "romaji": "ji",
+    "meaning": "Bunyi ji"
+  },
+  {
+    "id": "katakana-105",
+    "category": "katakana",
+    "japanese": "ジ",
+    "reading": "ジ",
+    "romaji": "ji",
+    "meaning": "Bunyi ji"
+  },
+  {
+    "id": "hiragana-106",
+    "category": "hiragana",
+    "japanese": "ず",
+    "reading": "ず",
+    "romaji": "zu",
+    "meaning": "Bunyi zu"
+  },
+  {
+    "id": "katakana-107",
+    "category": "katakana",
+    "japanese": "ズ",
+    "reading": "ズ",
+    "romaji": "zu",
+    "meaning": "Bunyi zu"
+  },
+  {
+    "id": "hiragana-108",
+    "category": "hiragana",
+    "japanese": "ぜ",
+    "reading": "ぜ",
+    "romaji": "ze",
+    "meaning": "Bunyi ze"
+  },
+  {
+    "id": "katakana-109",
+    "category": "katakana",
+    "japanese": "ゼ",
+    "reading": "ゼ",
+    "romaji": "ze",
+    "meaning": "Bunyi ze"
+  },
+  {
+    "id": "hiragana-110",
+    "category": "hiragana",
+    "japanese": "ぞ",
+    "reading": "ぞ",
+    "romaji": "zo",
+    "meaning": "Bunyi zo"
+  },
+  {
+    "id": "katakana-111",
+    "category": "katakana",
+    "japanese": "ゾ",
+    "reading": "ゾ",
+    "romaji": "zo",
+    "meaning": "Bunyi zo"
+  },
+  {
+    "id": "hiragana-112",
+    "category": "hiragana",
+    "japanese": "だ",
+    "reading": "だ",
+    "romaji": "da",
+    "meaning": "Bunyi da"
+  },
+  {
+    "id": "katakana-113",
+    "category": "katakana",
+    "japanese": "ダ",
+    "reading": "ダ",
+    "romaji": "da",
+    "meaning": "Bunyi da"
+  },
+  {
+    "id": "hiragana-114",
+    "category": "hiragana",
+    "japanese": "ぢ",
+    "reading": "ぢ",
+    "romaji": "ji",
+    "meaning": "Bunyi ji"
+  },
+  {
+    "id": "katakana-115",
+    "category": "katakana",
+    "japanese": "ヂ",
+    "reading": "ヂ",
+    "romaji": "ji",
+    "meaning": "Bunyi ji"
+  },
+  {
+    "id": "hiragana-116",
+    "category": "hiragana",
+    "japanese": "づ",
+    "reading": "づ",
+    "romaji": "zu",
+    "meaning": "Bunyi zu"
+  },
+  {
+    "id": "katakana-117",
+    "category": "katakana",
+    "japanese": "ヅ",
+    "reading": "ヅ",
+    "romaji": "zu",
+    "meaning": "Bunyi zu"
+  },
+  {
+    "id": "hiragana-118",
+    "category": "hiragana",
+    "japanese": "で",
+    "reading": "で",
+    "romaji": "de",
+    "meaning": "Bunyi de"
+  },
+  {
+    "id": "katakana-119",
+    "category": "katakana",
+    "japanese": "デ",
+    "reading": "デ",
+    "romaji": "de",
+    "meaning": "Bunyi de"
+  },
+  {
+    "id": "hiragana-120",
+    "category": "hiragana",
+    "japanese": "ど",
+    "reading": "ど",
+    "romaji": "do",
+    "meaning": "Bunyi do"
+  },
+  {
+    "id": "katakana-121",
+    "category": "katakana",
+    "japanese": "ド",
+    "reading": "ド",
+    "romaji": "do",
+    "meaning": "Bunyi do"
+  },
+  {
+    "id": "hiragana-122",
+    "category": "hiragana",
+    "japanese": "ば",
+    "reading": "ば",
+    "romaji": "ba",
+    "meaning": "Bunyi ba"
+  },
+  {
+    "id": "katakana-123",
+    "category": "katakana",
+    "japanese": "バ",
+    "reading": "バ",
+    "romaji": "ba",
+    "meaning": "Bunyi ba"
+  },
+  {
+    "id": "hiragana-124",
+    "category": "hiragana",
+    "japanese": "び",
+    "reading": "び",
+    "romaji": "bi",
+    "meaning": "Bunyi bi"
+  },
+  {
+    "id": "katakana-125",
+    "category": "katakana",
+    "japanese": "ビ",
+    "reading": "ビ",
+    "romaji": "bi",
+    "meaning": "Bunyi bi"
+  },
+  {
+    "id": "hiragana-126",
+    "category": "hiragana",
+    "japanese": "ぶ",
+    "reading": "ぶ",
+    "romaji": "bu",
+    "meaning": "Bunyi bu"
+  },
+  {
+    "id": "katakana-127",
+    "category": "katakana",
+    "japanese": "ブ",
+    "reading": "ブ",
+    "romaji": "bu",
+    "meaning": "Bunyi bu"
+  },
+  {
+    "id": "hiragana-128",
+    "category": "hiragana",
+    "japanese": "べ",
+    "reading": "べ",
+    "romaji": "be",
+    "meaning": "Bunyi be"
+  },
+  {
+    "id": "katakana-129",
+    "category": "katakana",
+    "japanese": "ベ",
+    "reading": "ベ",
+    "romaji": "be",
+    "meaning": "Bunyi be"
+  },
+  {
+    "id": "hiragana-130",
+    "category": "hiragana",
+    "japanese": "ぼ",
+    "reading": "ぼ",
+    "romaji": "bo",
+    "meaning": "Bunyi bo"
+  },
+  {
+    "id": "katakana-131",
+    "category": "katakana",
+    "japanese": "ボ",
+    "reading": "ボ",
+    "romaji": "bo",
+    "meaning": "Bunyi bo"
+  },
+  {
+    "id": "hiragana-132",
+    "category": "hiragana",
+    "japanese": "ぱ",
+    "reading": "ぱ",
+    "romaji": "pa",
+    "meaning": "Bunyi pa"
+  },
+  {
+    "id": "katakana-133",
+    "category": "katakana",
+    "japanese": "パ",
+    "reading": "パ",
+    "romaji": "pa",
+    "meaning": "Bunyi pa"
+  },
+  {
+    "id": "hiragana-134",
+    "category": "hiragana",
+    "japanese": "ぴ",
+    "reading": "ぴ",
+    "romaji": "pi",
+    "meaning": "Bunyi pi"
+  },
+  {
+    "id": "katakana-135",
+    "category": "katakana",
+    "japanese": "ピ",
+    "reading": "ピ",
+    "romaji": "pi",
+    "meaning": "Bunyi pi"
+  },
+  {
+    "id": "hiragana-136",
+    "category": "hiragana",
+    "japanese": "ぷ",
+    "reading": "ぷ",
+    "romaji": "pu",
+    "meaning": "Bunyi pu"
+  },
+  {
+    "id": "katakana-137",
+    "category": "katakana",
+    "japanese": "プ",
+    "reading": "プ",
+    "romaji": "pu",
+    "meaning": "Bunyi pu"
+  },
+  {
+    "id": "hiragana-138",
+    "category": "hiragana",
+    "japanese": "ぺ",
+    "reading": "ぺ",
+    "romaji": "pe",
+    "meaning": "Bunyi pe"
+  },
+  {
+    "id": "katakana-139",
+    "category": "katakana",
+    "japanese": "ペ",
+    "reading": "ペ",
+    "romaji": "pe",
+    "meaning": "Bunyi pe"
+  },
+  {
+    "id": "hiragana-140",
+    "category": "hiragana",
+    "japanese": "ぽ",
+    "reading": "ぽ",
+    "romaji": "po",
+    "meaning": "Bunyi po"
+  },
+  {
+    "id": "katakana-141",
+    "category": "katakana",
+    "japanese": "ポ",
+    "reading": "ポ",
+    "romaji": "po",
+    "meaning": "Bunyi po"
+  },
+  {
+    "id": "hiragana-142",
+    "category": "hiragana",
+    "japanese": "きゃ",
+    "reading": "きゃ",
+    "romaji": "kya",
+    "meaning": "Bunyi kya"
+  },
+  {
+    "id": "katakana-143",
+    "category": "katakana",
+    "japanese": "キャ",
+    "reading": "キャ",
+    "romaji": "kya",
+    "meaning": "Bunyi kya"
+  },
+  {
+    "id": "hiragana-144",
+    "category": "hiragana",
+    "japanese": "きゅ",
+    "reading": "きゅ",
+    "romaji": "kyu",
+    "meaning": "Bunyi kyu"
+  },
+  {
+    "id": "katakana-145",
+    "category": "katakana",
+    "japanese": "キュ",
+    "reading": "キュ",
+    "romaji": "kyu",
+    "meaning": "Bunyi kyu"
+  },
+  {
+    "id": "hiragana-146",
+    "category": "hiragana",
+    "japanese": "きょ",
+    "reading": "きょ",
+    "romaji": "kyo",
+    "meaning": "Bunyi kyo"
+  },
+  {
+    "id": "katakana-147",
+    "category": "katakana",
+    "japanese": "キョ",
+    "reading": "キョ",
+    "romaji": "kyo",
+    "meaning": "Bunyi kyo"
+  },
+  {
+    "id": "hiragana-148",
+    "category": "hiragana",
+    "japanese": "しゃ",
+    "reading": "しゃ",
+    "romaji": "sha",
+    "meaning": "Bunyi sha"
+  },
+  {
+    "id": "katakana-149",
+    "category": "katakana",
+    "japanese": "シャ",
+    "reading": "シャ",
+    "romaji": "sha",
+    "meaning": "Bunyi sha"
+  },
+  {
+    "id": "hiragana-150",
+    "category": "hiragana",
+    "japanese": "しゅ",
+    "reading": "しゅ",
+    "romaji": "shu",
+    "meaning": "Bunyi shu"
+  },
+  {
+    "id": "katakana-151",
+    "category": "katakana",
+    "japanese": "シュ",
+    "reading": "シュ",
+    "romaji": "shu",
+    "meaning": "Bunyi shu"
+  },
+  {
+    "id": "hiragana-152",
+    "category": "hiragana",
+    "japanese": "しょ",
+    "reading": "しょ",
+    "romaji": "sho",
+    "meaning": "Bunyi sho"
+  },
+  {
+    "id": "katakana-153",
+    "category": "katakana",
+    "japanese": "ショ",
+    "reading": "ショ",
+    "romaji": "sho",
+    "meaning": "Bunyi sho"
+  },
+  {
+    "id": "hiragana-154",
+    "category": "hiragana",
+    "japanese": "ちゃ",
+    "reading": "ちゃ",
+    "romaji": "cha",
+    "meaning": "Bunyi cha"
+  },
+  {
+    "id": "katakana-155",
+    "category": "katakana",
+    "japanese": "チャ",
+    "reading": "チャ",
+    "romaji": "cha",
+    "meaning": "Bunyi cha"
+  },
+  {
+    "id": "hiragana-156",
+    "category": "hiragana",
+    "japanese": "ちゅ",
+    "reading": "ちゅ",
+    "romaji": "chu",
+    "meaning": "Bunyi chu"
+  },
+  {
+    "id": "katakana-157",
+    "category": "katakana",
+    "japanese": "チュ",
+    "reading": "チュ",
+    "romaji": "chu",
+    "meaning": "Bunyi chu"
+  },
+  {
+    "id": "hiragana-158",
+    "category": "hiragana",
+    "japanese": "ちょ",
+    "reading": "ちょ",
+    "romaji": "cho",
+    "meaning": "Bunyi cho"
+  },
+  {
+    "id": "katakana-159",
+    "category": "katakana",
+    "japanese": "チョ",
+    "reading": "チョ",
+    "romaji": "cho",
+    "meaning": "Bunyi cho"
+  },
+  {
+    "id": "hiragana-160",
+    "category": "hiragana",
+    "japanese": "にゃ",
+    "reading": "にゃ",
+    "romaji": "nya",
+    "meaning": "Bunyi nya"
+  },
+  {
+    "id": "katakana-161",
+    "category": "katakana",
+    "japanese": "ニャ",
+    "reading": "ニャ",
+    "romaji": "nya",
+    "meaning": "Bunyi nya"
+  },
+  {
+    "id": "hiragana-162",
+    "category": "hiragana",
+    "japanese": "にゅ",
+    "reading": "にゅ",
+    "romaji": "nyu",
+    "meaning": "Bunyi nyu"
+  },
+  {
+    "id": "katakana-163",
+    "category": "katakana",
+    "japanese": "ニュ",
+    "reading": "ニュ",
+    "romaji": "nyu",
+    "meaning": "Bunyi nyu"
+  },
+  {
+    "id": "hiragana-164",
+    "category": "hiragana",
+    "japanese": "にょ",
+    "reading": "にょ",
+    "romaji": "nyo",
+    "meaning": "Bunyi nyo"
+  },
+  {
+    "id": "katakana-165",
+    "category": "katakana",
+    "japanese": "ニョ",
+    "reading": "ニョ",
+    "romaji": "nyo",
+    "meaning": "Bunyi nyo"
+  },
+  {
+    "id": "hiragana-166",
+    "category": "hiragana",
+    "japanese": "ひゃ",
+    "reading": "ひゃ",
+    "romaji": "hya",
+    "meaning": "Bunyi hya"
+  },
+  {
+    "id": "katakana-167",
+    "category": "katakana",
+    "japanese": "ヒャ",
+    "reading": "ヒャ",
+    "romaji": "hya",
+    "meaning": "Bunyi hya"
+  },
+  {
+    "id": "hiragana-168",
+    "category": "hiragana",
+    "japanese": "ひゅ",
+    "reading": "ひゅ",
+    "romaji": "hyu",
+    "meaning": "Bunyi hyu"
+  },
+  {
+    "id": "katakana-169",
+    "category": "katakana",
+    "japanese": "ヒュ",
+    "reading": "ヒュ",
+    "romaji": "hyu",
+    "meaning": "Bunyi hyu"
+  },
+  {
+    "id": "hiragana-170",
+    "category": "hiragana",
+    "japanese": "ひょ",
+    "reading": "ひょ",
+    "romaji": "hyo",
+    "meaning": "Bunyi hyo"
+  },
+  {
+    "id": "katakana-171",
+    "category": "katakana",
+    "japanese": "ヒョ",
+    "reading": "ヒョ",
+    "romaji": "hyo",
+    "meaning": "Bunyi hyo"
+  },
+  {
+    "id": "hiragana-172",
+    "category": "hiragana",
+    "japanese": "みゃ",
+    "reading": "みゃ",
+    "romaji": "mya",
+    "meaning": "Bunyi mya"
+  },
+  {
+    "id": "katakana-173",
+    "category": "katakana",
+    "japanese": "ミャ",
+    "reading": "ミャ",
+    "romaji": "mya",
+    "meaning": "Bunyi mya"
+  },
+  {
+    "id": "hiragana-174",
+    "category": "hiragana",
+    "japanese": "みゅ",
+    "reading": "みゅ",
+    "romaji": "myu",
+    "meaning": "Bunyi myu"
+  },
+  {
+    "id": "katakana-175",
+    "category": "katakana",
+    "japanese": "ミュ",
+    "reading": "ミュ",
+    "romaji": "myu",
+    "meaning": "Bunyi myu"
+  },
+  {
+    "id": "hiragana-176",
+    "category": "hiragana",
+    "japanese": "みょ",
+    "reading": "みょ",
+    "romaji": "myo",
+    "meaning": "Bunyi myo"
+  },
+  {
+    "id": "katakana-177",
+    "category": "katakana",
+    "japanese": "ミョ",
+    "reading": "ミョ",
+    "romaji": "myo",
+    "meaning": "Bunyi myo"
+  },
+  {
+    "id": "hiragana-178",
+    "category": "hiragana",
+    "japanese": "りゃ",
+    "reading": "りゃ",
+    "romaji": "rya",
+    "meaning": "Bunyi rya"
+  },
+  {
+    "id": "katakana-179",
+    "category": "katakana",
+    "japanese": "リャ",
+    "reading": "リャ",
+    "romaji": "rya",
+    "meaning": "Bunyi rya"
+  },
+  {
+    "id": "hiragana-180",
+    "category": "hiragana",
+    "japanese": "りゅ",
+    "reading": "りゅ",
+    "romaji": "ryu",
+    "meaning": "Bunyi ryu"
+  },
+  {
+    "id": "katakana-181",
+    "category": "katakana",
+    "japanese": "リュ",
+    "reading": "リュ",
+    "romaji": "ryu",
+    "meaning": "Bunyi ryu"
+  },
+  {
+    "id": "hiragana-182",
+    "category": "hiragana",
+    "japanese": "りょ",
+    "reading": "りょ",
+    "romaji": "ryo",
+    "meaning": "Bunyi ryo"
+  },
+  {
+    "id": "katakana-183",
+    "category": "katakana",
+    "japanese": "リョ",
+    "reading": "リョ",
+    "romaji": "ryo",
+    "meaning": "Bunyi ryo"
+  },
+  {
+    "id": "hiragana-184",
+    "category": "hiragana",
+    "japanese": "ぎゃ",
+    "reading": "ぎゃ",
+    "romaji": "gya",
+    "meaning": "Bunyi gya"
+  },
+  {
+    "id": "katakana-185",
+    "category": "katakana",
+    "japanese": "ギャ",
+    "reading": "ギャ",
+    "romaji": "gya",
+    "meaning": "Bunyi gya"
+  },
+  {
+    "id": "hiragana-186",
+    "category": "hiragana",
+    "japanese": "ぎゅ",
+    "reading": "ぎゅ",
+    "romaji": "gyu",
+    "meaning": "Bunyi gyu"
+  },
+  {
+    "id": "katakana-187",
+    "category": "katakana",
+    "japanese": "ギュ",
+    "reading": "ギュ",
+    "romaji": "gyu",
+    "meaning": "Bunyi gyu"
+  },
+  {
+    "id": "hiragana-188",
+    "category": "hiragana",
+    "japanese": "ぎょ",
+    "reading": "ぎょ",
+    "romaji": "gyo",
+    "meaning": "Bunyi gyo"
+  },
+  {
+    "id": "katakana-189",
+    "category": "katakana",
+    "japanese": "ギョ",
+    "reading": "ギョ",
+    "romaji": "gyo",
+    "meaning": "Bunyi gyo"
+  },
+  {
+    "id": "hiragana-190",
+    "category": "hiragana",
+    "japanese": "じゃ",
+    "reading": "じゃ",
+    "romaji": "ja",
+    "meaning": "Bunyi ja"
+  },
+  {
+    "id": "katakana-191",
+    "category": "katakana",
+    "japanese": "ジャ",
+    "reading": "ジャ",
+    "romaji": "ja",
+    "meaning": "Bunyi ja"
+  },
+  {
+    "id": "hiragana-192",
+    "category": "hiragana",
+    "japanese": "じゅ",
+    "reading": "じゅ",
+    "romaji": "ju",
+    "meaning": "Bunyi ju"
+  },
+  {
+    "id": "katakana-193",
+    "category": "katakana",
+    "japanese": "ジュ",
+    "reading": "ジュ",
+    "romaji": "ju",
+    "meaning": "Bunyi ju"
+  },
+  {
+    "id": "hiragana-194",
+    "category": "hiragana",
+    "japanese": "じょ",
+    "reading": "じょ",
+    "romaji": "jo",
+    "meaning": "Bunyi jo"
+  },
+  {
+    "id": "katakana-195",
+    "category": "katakana",
+    "japanese": "ジョ",
+    "reading": "ジョ",
+    "romaji": "jo",
+    "meaning": "Bunyi jo"
+  },
+  {
+    "id": "hiragana-196",
+    "category": "hiragana",
+    "japanese": "びゃ",
+    "reading": "びゃ",
+    "romaji": "bya",
+    "meaning": "Bunyi bya"
+  },
+  {
+    "id": "katakana-197",
+    "category": "katakana",
+    "japanese": "ビャ",
+    "reading": "ビャ",
+    "romaji": "bya",
+    "meaning": "Bunyi bya"
+  },
+  {
+    "id": "hiragana-198",
+    "category": "hiragana",
+    "japanese": "びゅ",
+    "reading": "びゅ",
+    "romaji": "byu",
+    "meaning": "Bunyi byu"
+  },
+  {
+    "id": "katakana-199",
+    "category": "katakana",
+    "japanese": "ビュ",
+    "reading": "ビュ",
+    "romaji": "byu",
+    "meaning": "Bunyi byu"
+  },
+  {
+    "id": "hiragana-200",
+    "category": "hiragana",
+    "japanese": "びょ",
+    "reading": "びょ",
+    "romaji": "byo",
+    "meaning": "Bunyi byo"
+  },
+  {
+    "id": "katakana-201",
+    "category": "katakana",
+    "japanese": "ビョ",
+    "reading": "ビョ",
+    "romaji": "byo",
+    "meaning": "Bunyi byo"
+  },
+  {
+    "id": "hiragana-202",
+    "category": "hiragana",
+    "japanese": "ぴゃ",
+    "reading": "ぴゃ",
+    "romaji": "pya",
+    "meaning": "Bunyi pya"
+  },
+  {
+    "id": "katakana-203",
+    "category": "katakana",
+    "japanese": "ピャ",
+    "reading": "ピャ",
+    "romaji": "pya",
+    "meaning": "Bunyi pya"
+  },
+  {
+    "id": "hiragana-204",
+    "category": "hiragana",
+    "japanese": "ぴゅ",
+    "reading": "ぴゅ",
+    "romaji": "pyu",
+    "meaning": "Bunyi pyu"
+  },
+  {
+    "id": "katakana-205",
+    "category": "katakana",
+    "japanese": "ピュ",
+    "reading": "ピュ",
+    "romaji": "pyu",
+    "meaning": "Bunyi pyu"
+  },
+  {
+    "id": "hiragana-206",
+    "category": "hiragana",
+    "japanese": "ぴょ",
+    "reading": "ぴょ",
+    "romaji": "pyo",
+    "meaning": "Bunyi pyo"
+  },
+  {
+    "id": "katakana-207",
+    "category": "katakana",
+    "japanese": "ピョ",
+    "reading": "ピョ",
+    "romaji": "pyo",
+    "meaning": "Bunyi pyo"
+  },
+  {
+    "id": "kanji-0",
+    "category": "kanji",
+    "japanese": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "meaning": "satu"
+  },
+  {
+    "id": "kanji-1",
+    "category": "kanji",
+    "japanese": "二",
+    "reading": "に",
+    "romaji": "ni",
+    "meaning": "dua"
+  },
+  {
+    "id": "kanji-2",
+    "category": "kanji",
+    "japanese": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "meaning": "tiga"
+  },
+  {
+    "id": "kanji-3",
+    "category": "kanji",
+    "japanese": "四",
+    "reading": "よん",
+    "romaji": "yon",
+    "meaning": "empat"
+  },
+  {
+    "id": "kanji-4",
+    "category": "kanji",
+    "japanese": "五",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "lima"
+  },
+  {
+    "id": "kanji-5",
+    "category": "kanji",
+    "japanese": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "meaning": "enam"
+  },
+  {
+    "id": "kanji-6",
+    "category": "kanji",
+    "japanese": "七",
+    "reading": "なな",
+    "romaji": "nana",
+    "meaning": "tujuh"
+  },
+  {
+    "id": "kanji-7",
+    "category": "kanji",
+    "japanese": "八",
+    "reading": "はち",
+    "romaji": "hachi",
+    "meaning": "delapan"
+  },
+  {
+    "id": "kanji-8",
+    "category": "kanji",
+    "japanese": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "meaning": "sembilan"
+  },
+  {
+    "id": "kanji-9",
+    "category": "kanji",
+    "japanese": "十",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "meaning": "sepuluh"
+  },
+  {
+    "id": "kanji-10",
+    "category": "kanji",
+    "japanese": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "seratus"
+  },
+  {
+    "id": "kanji-11",
+    "category": "kanji",
+    "japanese": "千",
+    "reading": "せん",
+    "romaji": "sen",
+    "meaning": "seribu"
+  },
+  {
+    "id": "kanji-12",
+    "category": "kanji",
+    "japanese": "万",
+    "reading": "まん",
+    "romaji": "man",
+    "meaning": "sepuluh ribu"
+  },
+  {
+    "id": "kanji-13",
+    "category": "kanji",
+    "japanese": "円",
+    "reading": "えん",
+    "romaji": "en",
+    "meaning": "yen"
+  },
+  {
+    "id": "kanji-14",
+    "category": "kanji",
+    "japanese": "日",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "hari; matahari"
+  },
+  {
+    "id": "kanji-15",
+    "category": "kanji",
+    "japanese": "月",
+    "reading": "つき",
+    "romaji": "tsuki",
+    "meaning": "bulan"
+  },
+  {
+    "id": "kanji-16",
+    "category": "kanji",
+    "japanese": "火",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "api"
+  },
+  {
+    "id": "kanji-17",
+    "category": "kanji",
+    "japanese": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "meaning": "air"
+  },
+  {
+    "id": "kanji-18",
+    "category": "kanji",
+    "japanese": "木",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "pohon"
+  },
+  {
+    "id": "kanji-19",
+    "category": "kanji",
+    "japanese": "金",
+    "reading": "かね",
+    "romaji": "kane",
+    "meaning": "uang"
+  },
+  {
+    "id": "kanji-20",
+    "category": "kanji",
+    "japanese": "土",
+    "reading": "つち",
+    "romaji": "tsuchi",
+    "meaning": "tanah"
+  },
+  {
+    "id": "kanji-21",
+    "category": "kanji",
+    "japanese": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "meaning": "orang"
+  },
+  {
+    "id": "kanji-22",
+    "category": "kanji",
+    "japanese": "男",
+    "reading": "おとこ",
+    "romaji": "otoko",
+    "meaning": "laki-laki"
+  },
+  {
+    "id": "kanji-23",
+    "category": "kanji",
+    "japanese": "女",
+    "reading": "おんな",
+    "romaji": "onna",
+    "meaning": "perempuan"
+  },
+  {
+    "id": "kanji-24",
+    "category": "kanji",
+    "japanese": "子",
+    "reading": "こ",
+    "romaji": "ko",
+    "meaning": "anak"
+  },
+  {
+    "id": "kanji-25",
+    "category": "kanji",
+    "japanese": "山",
+    "reading": "やま",
+    "romaji": "yama",
+    "meaning": "gunung"
+  },
+  {
+    "id": "kanji-26",
+    "category": "kanji",
+    "japanese": "川",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "meaning": "sungai"
+  },
+  {
+    "id": "kanji-27",
+    "category": "kanji",
+    "japanese": "田",
+    "reading": "た",
+    "romaji": "ta",
+    "meaning": "sawah"
+  },
+  {
+    "id": "kanji-28",
+    "category": "kanji",
+    "japanese": "口",
+    "reading": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut"
+  },
+  {
+    "id": "kanji-29",
+    "category": "kanji",
+    "japanese": "目",
+    "reading": "め",
+    "romaji": "me",
+    "meaning": "mata"
+  },
+  {
+    "id": "kanji-30",
+    "category": "kanji",
+    "japanese": "耳",
+    "reading": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga"
+  },
+  {
+    "id": "kanji-31",
+    "category": "kanji",
+    "japanese": "手",
+    "reading": "て",
+    "romaji": "te",
+    "meaning": "tangan"
+  },
+  {
+    "id": "kanji-32",
+    "category": "kanji",
+    "japanese": "足",
+    "reading": "あし",
+    "romaji": "ashi",
+    "meaning": "kaki"
+  },
+  {
+    "id": "kanji-33",
+    "category": "kanji",
+    "japanese": "力",
+    "reading": "ちから",
+    "romaji": "chikara",
+    "meaning": "kekuatan"
+  },
+  {
+    "id": "kanji-34",
+    "category": "kanji",
+    "japanese": "父",
+    "reading": "ちち",
+    "romaji": "chichi",
+    "meaning": "ayah (sendiri)"
+  },
+  {
+    "id": "kanji-35",
+    "category": "kanji",
+    "japanese": "母",
+    "reading": "はは",
+    "romaji": "haha",
+    "meaning": "ibu (sendiri)"
+  },
+  {
+    "id": "kanji-36",
+    "category": "kanji",
+    "japanese": "先",
+    "reading": "さき",
+    "romaji": "saki",
+    "meaning": "sebelumnya; depan"
+  },
+  {
+    "id": "kanji-37",
+    "category": "kanji",
+    "japanese": "生",
+    "reading": "せい",
+    "romaji": "sei",
+    "meaning": "kehidupan (bacaan dalam 学生)"
+  },
+  {
+    "id": "kanji-38",
+    "category": "kanji",
+    "japanese": "学",
+    "reading": "がく",
+    "romaji": "gaku",
+    "meaning": "belajar (bacaan dalam 学生)"
+  },
+  {
+    "id": "kanji-39",
+    "category": "kanji",
+    "japanese": "校",
+    "reading": "こう",
+    "romaji": "kou",
+    "meaning": "sekolah (bacaan dalam 学校)"
+  },
+  {
+    "id": "kanji-40",
+    "category": "kanji",
+    "japanese": "友",
+    "reading": "とも",
+    "romaji": "tomo",
+    "meaning": "teman"
+  },
+  {
+    "id": "kanji-41",
+    "category": "kanji",
+    "japanese": "本",
+    "reading": "ほん",
+    "romaji": "hon",
+    "meaning": "buku"
+  },
+  {
+    "id": "kanji-42",
+    "category": "kanji",
+    "japanese": "名",
+    "reading": "な",
+    "romaji": "na",
+    "meaning": "nama"
+  },
+  {
+    "id": "kanji-43",
+    "category": "kanji",
+    "japanese": "年",
+    "reading": "とし",
+    "romaji": "toshi",
+    "meaning": "tahun"
+  },
+  {
+    "id": "kanji-44",
+    "category": "kanji",
+    "japanese": "時",
+    "reading": "とき",
+    "romaji": "toki",
+    "meaning": "waktu"
+  },
+  {
+    "id": "kanji-45",
+    "category": "kanji",
+    "japanese": "分",
+    "reading": "ふん",
+    "romaji": "fun",
+    "meaning": "menit"
+  },
+  {
+    "id": "kanji-46",
+    "category": "kanji",
+    "japanese": "半",
+    "reading": "はん",
+    "romaji": "han",
+    "meaning": "setengah"
+  },
+  {
+    "id": "kanji-47",
+    "category": "kanji",
+    "japanese": "今",
+    "reading": "いま",
+    "romaji": "ima",
+    "meaning": "sekarang"
+  },
+  {
+    "id": "kanji-48",
+    "category": "kanji",
+    "japanese": "何",
+    "reading": "なに",
+    "romaji": "nani",
+    "meaning": "apa"
+  },
+  {
+    "id": "kanji-49",
+    "category": "kanji",
+    "japanese": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning": "atas"
+  },
+  {
+    "id": "kanji-50",
+    "category": "kanji",
+    "japanese": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "meaning": "bawah"
+  },
+  {
+    "id": "kanji-51",
+    "category": "kanji",
+    "japanese": "中",
+    "reading": "なか",
+    "romaji": "naka",
+    "meaning": "dalam; tengah"
+  },
+  {
+    "id": "kanji-52",
+    "category": "kanji",
+    "japanese": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "meaning": "luar"
+  },
+  {
+    "id": "kanji-53",
+    "category": "kanji",
+    "japanese": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "meaning": "kanan"
+  },
+  {
+    "id": "kanji-54",
+    "category": "kanji",
+    "japanese": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "meaning": "kiri"
+  },
+  {
+    "id": "kanji-55",
+    "category": "kanji",
+    "japanese": "前",
+    "reading": "まえ",
+    "romaji": "mae",
+    "meaning": "depan; sebelum"
+  },
+  {
+    "id": "kanji-56",
+    "category": "kanji",
+    "japanese": "後",
+    "reading": "あと",
+    "romaji": "ato",
+    "meaning": "setelah"
+  },
+  {
+    "id": "kanji-57",
+    "category": "kanji",
+    "japanese": "北",
+    "reading": "きた",
+    "romaji": "kita",
+    "meaning": "utara"
+  },
+  {
+    "id": "kanji-58",
+    "category": "kanji",
+    "japanese": "南",
+    "reading": "みなみ",
+    "romaji": "minami",
+    "meaning": "selatan"
+  },
+  {
+    "id": "kanji-59",
+    "category": "kanji",
+    "japanese": "東",
+    "reading": "ひがし",
+    "romaji": "higashi",
+    "meaning": "timur"
+  },
+  {
+    "id": "kanji-60",
+    "category": "kanji",
+    "japanese": "西",
+    "reading": "にし",
+    "romaji": "nishi",
+    "meaning": "barat"
+  },
+  {
+    "id": "kanji-61",
+    "category": "kanji",
+    "japanese": "大",
+    "reading": "だい",
+    "romaji": "dai",
+    "meaning": "besar (bacaan dalam 大学)"
+  },
+  {
+    "id": "kanji-62",
+    "category": "kanji",
+    "japanese": "小",
+    "reading": "しょう",
+    "romaji": "shou",
+    "meaning": "kecil (bacaan dalam 小学校)"
+  },
+  {
+    "id": "kanji-63",
+    "category": "kanji",
+    "japanese": "高",
+    "reading": "たかい",
+    "romaji": "takai",
+    "meaning": "tinggi; mahal (高い)"
+  },
+  {
+    "id": "kanji-64",
+    "category": "kanji",
+    "japanese": "安",
+    "reading": "やすい",
+    "romaji": "yasui",
+    "meaning": "murah (安い)"
+  },
+  {
+    "id": "kanji-65",
+    "category": "kanji",
+    "japanese": "新",
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "baru (新しい)"
+  },
+  {
+    "id": "kanji-66",
+    "category": "kanji",
+    "japanese": "古",
+    "reading": "ふるい",
+    "romaji": "furui",
+    "meaning": "lama (古い)"
+  },
+  {
+    "id": "kanji-67",
+    "category": "kanji",
+    "japanese": "長",
+    "reading": "ながい",
+    "romaji": "nagai",
+    "meaning": "panjang (長い)"
+  },
+  {
+    "id": "kanji-68",
+    "category": "kanji",
+    "japanese": "多",
+    "reading": "おおい",
+    "romaji": "ooi",
+    "meaning": "banyak (多い)"
+  },
+  {
+    "id": "kanji-69",
+    "category": "kanji",
+    "japanese": "少",
+    "reading": "すくない",
+    "romaji": "sukunai",
+    "meaning": "sedikit (少ない)"
+  },
+  {
+    "id": "kanji-70",
+    "category": "kanji",
+    "japanese": "白",
+    "reading": "しろ",
+    "romaji": "shiro",
+    "meaning": "putih"
+  },
+  {
+    "id": "kanji-71",
+    "category": "kanji",
+    "japanese": "天",
+    "reading": "てん",
+    "romaji": "ten",
+    "meaning": "langit"
+  },
+  {
+    "id": "kanji-72",
+    "category": "kanji",
+    "japanese": "気",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "semangat; suasana"
+  },
+  {
+    "id": "kanji-73",
+    "category": "kanji",
+    "japanese": "雨",
+    "reading": "あめ",
+    "romaji": "ame",
+    "meaning": "hujan"
+  },
+  {
+    "id": "kanji-74",
+    "category": "kanji",
+    "japanese": "電",
+    "reading": "でん",
+    "romaji": "den",
+    "meaning": "listrik (bacaan dalam 電車)"
+  },
+  {
+    "id": "kanji-75",
+    "category": "kanji",
+    "japanese": "車",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "meaning": "mobil"
+  },
+  {
+    "id": "kanji-76",
+    "category": "kanji",
+    "japanese": "駅",
+    "reading": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun"
+  },
+  {
+    "id": "kanji-77",
+    "category": "kanji",
+    "japanese": "道",
+    "reading": "みち",
+    "romaji": "michi",
+    "meaning": "jalan"
+  },
+  {
+    "id": "kanji-78",
+    "category": "kanji",
+    "japanese": "国",
+    "reading": "くに",
+    "romaji": "kuni",
+    "meaning": "negara"
+  },
+  {
+    "id": "kanji-79",
+    "category": "kanji",
+    "japanese": "語",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "bahasa (akhiran)"
+  },
+  {
+    "id": "kanji-80",
+    "category": "kanji",
+    "japanese": "話",
+    "reading": "はなし",
+    "romaji": "hanashi",
+    "meaning": "cerita"
+  },
+  {
+    "id": "kanji-81",
+    "category": "kanji",
+    "japanese": "読",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "meaning": "membaca (読む)"
+  },
+  {
+    "id": "kanji-82",
+    "category": "kanji",
+    "japanese": "書",
+    "reading": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis (書く)"
+  },
+  {
+    "id": "kanji-83",
+    "category": "kanji",
+    "japanese": "聞",
+    "reading": "きく",
+    "romaji": "kiku",
+    "meaning": "mendengar (聞く)"
+  },
+  {
+    "id": "kanji-84",
+    "category": "kanji",
+    "japanese": "見",
+    "reading": "みる",
+    "romaji": "miru",
+    "meaning": "melihat (見る)"
+  },
+  {
+    "id": "kanji-85",
+    "category": "kanji",
+    "japanese": "行",
+    "reading": "いく",
+    "romaji": "iku",
+    "meaning": "pergi (行く)"
+  },
+  {
+    "id": "kanji-86",
+    "category": "kanji",
+    "japanese": "来",
+    "reading": "くる",
+    "romaji": "kuru",
+    "meaning": "datang (来る)"
+  },
+  {
+    "id": "kanji-87",
+    "category": "kanji",
+    "japanese": "帰",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang (帰る)"
+  },
+  {
+    "id": "kanji-88",
+    "category": "kanji",
+    "japanese": "食",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan (食べる)"
+  },
+  {
+    "id": "kanji-89",
+    "category": "kanji",
+    "japanese": "飲",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum (飲む)"
+  },
+  {
+    "id": "kanji-90",
+    "category": "kanji",
+    "japanese": "買",
+    "reading": "かう",
+    "romaji": "kau",
+    "meaning": "membeli (買う)"
+  },
+  {
+    "id": "kanji-91",
+    "category": "kanji",
+    "japanese": "休",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "beristirahat (休む)"
+  },
+  {
+    "id": "kanji-92",
+    "category": "kanji",
+    "japanese": "会",
+    "reading": "あう",
+    "romaji": "au",
+    "meaning": "bertemu (会う)"
+  },
+  {
+    "id": "kanji-93",
+    "category": "kanji",
+    "japanese": "社",
+    "reading": "しゃ",
+    "romaji": "sha",
+    "meaning": "perusahaan (bacaan dalam 会社)"
+  },
+  {
+    "id": "kanji-94",
+    "category": "kanji",
+    "japanese": "店",
+    "reading": "みせ",
+    "romaji": "mise",
+    "meaning": "toko"
+  },
+  {
+    "id": "kanji-95",
+    "category": "kanji",
+    "japanese": "毎",
+    "reading": "まい",
+    "romaji": "mai",
+    "meaning": "setiap"
+  },
+  {
+    "id": "kanji-96",
+    "category": "kanji",
+    "japanese": "週",
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "meaning": "minggu"
+  },
+  {
+    "id": "kanji-97",
+    "category": "kanji",
+    "japanese": "午",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "tengah hari (bacaan dalam 午前)"
+  },
+  {
+    "id": "kanji-98",
+    "category": "kanji",
+    "japanese": "間",
+    "reading": "あいだ",
+    "romaji": "aida",
+    "meaning": "antara"
+  },
+  {
+    "id": "kanji-99",
+    "category": "kanji",
+    "japanese": "入",
+    "reading": "はいる",
+    "romaji": "hairu",
+    "meaning": "masuk (入る)"
+  },
+  {
+    "id": "kanji-100",
+    "category": "kanji",
+    "japanese": "出",
+    "reading": "でる",
+    "romaji": "deru",
+    "meaning": "keluar (出る)"
+  },
+  {
+    "id": "kanji-101",
+    "category": "kanji",
+    "japanese": "立",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "meaning": "berdiri (立つ)"
+  },
+  {
+    "id": "kanji-102",
+    "category": "kanji",
+    "japanese": "花",
+    "reading": "はな",
+    "romaji": "hana",
+    "meaning": "bunga"
+  },
+  {
+    "id": "kanji-103",
+    "category": "kanji",
+    "japanese": "魚",
+    "reading": "さかな",
+    "romaji": "sakana",
+    "meaning": "ikan"
+  },
+  {
+    "id": "vocabulary-0",
+    "category": "vocabulary",
+    "japanese": "ねこ",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "meaning": "kucing"
+  },
+  {
+    "id": "vocabulary-1",
+    "category": "vocabulary",
+    "japanese": "いぬ",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing"
+  },
+  {
+    "id": "vocabulary-2",
+    "category": "vocabulary",
+    "japanese": "おはよう",
+    "reading": "おはよう",
+    "romaji": "ohayou",
+    "meaning": "selamat pagi"
+  },
+  {
+    "id": "vocabulary-3",
+    "category": "vocabulary",
+    "japanese": "ありがとう",
+    "reading": "ありがとう",
+    "romaji": "arigatou",
+    "meaning": "terima kasih"
+  },
+  {
+    "id": "vocabulary-4",
+    "category": "vocabulary",
+    "japanese": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru"
+  },
+  {
+    "id": "vocabulary-5",
+    "category": "vocabulary",
+    "japanese": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "pelajar"
+  },
+  {
+    "id": "vocabulary-6",
+    "category": "vocabulary",
+    "japanese": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah"
+  },
+  {
+    "id": "vocabulary-7",
+    "category": "vocabulary",
+    "japanese": "日本",
+    "reading": "にほん",
+    "romaji": "nihon",
+    "meaning": "Jepang"
+  },
+  {
+    "id": "vocabulary-8",
+    "category": "vocabulary",
+    "japanese": "日本語",
+    "reading": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "bahasa Jepang"
+  },
+  {
+    "id": "vocabulary-9",
+    "category": "vocabulary",
+    "japanese": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini"
+  },
+  {
+    "id": "vocabulary-10",
+    "category": "vocabulary",
+    "japanese": "明日",
+    "reading": "あした",
+    "romaji": "ashita",
+    "meaning": "besok"
+  },
+  {
+    "id": "vocabulary-11",
+    "category": "vocabulary",
+    "japanese": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "meaning": "kemarin"
+  },
+  {
+    "id": "vocabulary-12",
+    "category": "vocabulary",
+    "japanese": "友達",
+    "reading": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman"
+  },
+  {
+    "id": "vocabulary-13",
+    "category": "vocabulary",
+    "japanese": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta"
+  },
+  {
+    "id": "vocabulary-14",
+    "category": "vocabulary",
+    "japanese": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telepon"
+  },
+  {
+    "id": "vocabulary-15",
+    "category": "vocabulary",
+    "japanese": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "perusahaan"
+  },
+  {
+    "id": "vocabulary-16",
+    "category": "vocabulary",
+    "japanese": "病院",
+    "reading": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit"
+  },
+  {
+    "id": "vocabulary-17",
+    "category": "vocabulary",
+    "japanese": "銀行",
+    "reading": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank"
+  },
+  {
+    "id": "vocabulary-18",
+    "category": "vocabulary",
+    "japanese": "図書館",
+    "reading": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "perpustakaan"
+  },
+  {
+    "id": "vocabulary-19",
+    "category": "vocabulary",
+    "japanese": "名前",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "meaning": "nama"
+  },
+  {
+    "id": "vocabulary-20",
+    "category": "vocabulary",
+    "japanese": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "meaning": "waktu"
+  },
+  {
+    "id": "vocabulary-21",
+    "category": "vocabulary",
+    "japanese": "朝",
+    "reading": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi"
+  },
+  {
+    "id": "vocabulary-22",
+    "category": "vocabulary",
+    "japanese": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "meaning": "malam"
+  },
+  {
+    "id": "vocabulary-23",
+    "category": "vocabulary",
+    "japanese": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan"
+  },
+  {
+    "id": "vocabulary-24",
+    "category": "vocabulary",
+    "japanese": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum"
+  },
+  {
+    "id": "vocabulary-25",
+    "category": "vocabulary",
+    "japanese": "読む",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "meaning": "membaca"
+  },
+  {
+    "id": "vocabulary-26",
+    "category": "vocabulary",
+    "japanese": "書く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis"
+  },
+  {
+    "id": "vocabulary-27",
+    "category": "vocabulary",
+    "japanese": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "meaning": "pergi"
+  },
+  {
+    "id": "vocabulary-28",
+    "category": "vocabulary",
+    "japanese": "来る",
+    "reading": "くる",
+    "romaji": "kuru",
+    "meaning": "datang"
+  },
+  {
+    "id": "vocabulary-29",
+    "category": "vocabulary",
+    "japanese": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang"
+  },
+  {
+    "id": "vocabulary-30",
+    "category": "vocabulary",
+    "japanese": "大きい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "meaning": "besar"
+  },
+  {
+    "id": "vocabulary-31",
+    "category": "vocabulary",
+    "japanese": "小さい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "kecil"
+  },
+  {
+    "id": "vocabulary-32",
+    "category": "vocabulary",
+    "japanese": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "meaning": "suka"
+  },
+  {
+    "id": "vocabulary-33",
+    "category": "vocabulary",
+    "japanese": "おいしい",
+    "reading": "おいしい",
+    "romaji": "oishii",
+    "meaning": "enak"
+  },
+  {
+    "id": "vocabulary-34",
+    "category": "vocabulary",
+    "japanese": "パン",
+    "reading": "パン",
+    "romaji": "pan",
+    "meaning": "roti"
+  },
+  {
+    "id": "vocabulary-35",
+    "category": "vocabulary",
+    "japanese": "コーヒー",
+    "reading": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "kopi"
+  },
+  {
+    "id": "vocabulary-36",
+    "category": "vocabulary",
+    "japanese": "テレビ",
+    "reading": "テレビ",
+    "romaji": "terebi",
+    "meaning": "televisi"
+  },
+  {
+    "id": "vocabulary-37",
+    "category": "vocabulary",
+    "japanese": "ラジオ",
+    "reading": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio"
+  },
+  {
+    "id": "vocabulary-38",
+    "category": "vocabulary",
+    "japanese": "タクシー",
+    "reading": "タクシー",
+    "romaji": "takushii",
+    "meaning": "taksi"
+  },
+  {
+    "id": "vocabulary-39",
+    "category": "vocabulary",
+    "japanese": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "meaning": "bus"
+  },
+  {
+    "id": "vocabulary-40",
+    "category": "vocabulary",
+    "japanese": "ホテル",
+    "reading": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel"
+  },
+  {
+    "id": "vocabulary-41",
+    "category": "vocabulary",
+    "japanese": "レストラン",
+    "reading": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restoran"
+  },
+  {
+    "id": "vocabulary-42",
+    "category": "vocabulary",
+    "japanese": "カメラ",
+    "reading": "カメラ",
+    "romaji": "kamera",
+    "meaning": "kamera"
+  },
+  {
+    "id": "vocabulary-43",
+    "category": "vocabulary",
+    "japanese": "コンピューター",
+    "reading": "コンピューター",
+    "romaji": "konpyuutaa",
+    "meaning": "komputer"
+  },
+  {
+    "id": "vocabulary-44",
+    "category": "vocabulary",
+    "japanese": "スーパー",
+    "reading": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket"
+  },
+  {
+    "id": "vocabulary-45",
+    "category": "vocabulary",
+    "japanese": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "meaning": "es krim"
+  },
+  {
+    "id": "sentences-0",
+    "category": "sentences",
+    "japanese": "私は学生です。",
+    "reading": "わたしはがくせいです。",
+    "romaji": "watashi wa gakusei desu",
+    "meaning": "Saya seorang pelajar."
+  },
+  {
+    "id": "sentences-1",
+    "category": "sentences",
+    "japanese": "毎日、日本語を勉強します。",
+    "reading": "まいにち、にほんごをべんきょうします。",
+    "romaji": "mainichi nihongo o benkyou shimasu",
+    "meaning": "Saya belajar bahasa Jepang setiap hari."
+  },
+  {
+    "id": "sentences-2",
+    "category": "sentences",
+    "japanese": "水を飲みます。",
+    "reading": "みずをのみます。",
+    "romaji": "mizu o nomimasu",
+    "meaning": "Saya minum air."
+  },
+  {
+    "id": "sentences-3",
+    "category": "sentences",
+    "japanese": "学校に行きます。",
+    "reading": "がっこうにいきます。",
+    "romaji": "gakkou ni ikimasu",
+    "meaning": "Saya pergi ke sekolah."
+  },
+  {
+    "id": "sentences-4",
+    "category": "sentences",
+    "japanese": "これは私の本です。",
+    "reading": "これはわたしのほんです。",
+    "romaji": "kore wa watashi no hon desu",
+    "meaning": "Ini buku saya."
+  },
+  {
+    "id": "sentences-5",
+    "category": "sentences",
+    "japanese": "猫がいます。",
+    "reading": "ねこがいます。",
+    "romaji": "neko ga imasu",
+    "meaning": "Ada kucing."
+  },
+  {
+    "id": "sentences-6",
+    "category": "sentences",
+    "japanese": "パンを食べます。",
+    "reading": "パンをたべます。",
+    "romaji": "pan o tabemasu",
+    "meaning": "Saya makan roti."
+  },
+  {
+    "id": "sentences-7",
+    "category": "sentences",
+    "japanese": "コーヒーが好きです。",
+    "reading": "コーヒーがすきです。",
+    "romaji": "koohii ga suki desu",
+    "meaning": "Saya suka kopi."
+  },
+  {
+    "id": "sentences-8",
+    "category": "sentences",
+    "japanese": "駅はどこですか。",
+    "reading": "えきはどこですか。",
+    "romaji": "eki wa doko desu ka",
+    "meaning": "Di mana stasiun?"
+  },
+  {
+    "id": "sentences-9",
+    "category": "sentences",
+    "japanese": "今日は暑いです。",
+    "reading": "きょうはあついです。",
+    "romaji": "kyou wa atsui desu",
+    "meaning": "Hari ini panas."
+  },
+  {
+    "id": "sentences-10",
+    "category": "sentences",
+    "japanese": "明日、友達に会います。",
+    "reading": "あした、ともだちにあいます。",
+    "romaji": "ashita tomodachi ni aimasu",
+    "meaning": "Besok saya bertemu teman."
+  },
+  {
+    "id": "sentences-11",
+    "category": "sentences",
+    "japanese": "テレビを見ます。",
+    "reading": "テレビをみます。",
+    "romaji": "terebi o mimasu",
+    "meaning": "Saya menonton televisi."
+  },
+  {
+    "id": "sentences-12",
+    "category": "sentences",
+    "japanese": "バスで帰ります。",
+    "reading": "バスでかえります。",
+    "romaji": "basu de kaerimasu",
+    "meaning": "Saya pulang dengan bus."
+  },
+  {
+    "id": "sentences-13",
+    "category": "sentences",
+    "japanese": "七時に起きます。",
+    "reading": "しちじにおきます。",
+    "romaji": "shichiji ni okimasu",
+    "meaning": "Saya bangun pukul tujuh."
+  },
+  {
+    "id": "sentences-14",
+    "category": "sentences",
+    "japanese": "この花はきれいです。",
+    "reading": "このはなはきれいです。",
+    "romaji": "kono hana wa kirei desu",
+    "meaning": "Bunga ini indah."
+  },
+  {
+    "id": "sentences-15",
+    "category": "sentences",
+    "japanese": "図書館で本を読みます。",
+    "reading": "としょかんでほんをよみます。",
+    "romaji": "toshokan de hon o yomimasu",
+    "meaning": "Saya membaca buku di perpustakaan."
+  },
+  {
+    "id": "kana-word-かく",
+    "category": "kana-words",
+    "japanese": "かく",
+    "reading": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis"
+  },
+  {
+    "id": "kana-word-きく",
+    "category": "kana-words",
+    "japanese": "きく",
+    "reading": "きく",
+    "romaji": "kiku",
+    "meaning": "mendengar; bertanya"
+  },
+  {
+    "id": "kana-word-あう",
+    "category": "kana-words",
+    "japanese": "あう",
+    "reading": "あう",
+    "romaji": "au",
+    "meaning": "bertemu"
+  },
+  {
+    "id": "kana-word-いう",
+    "category": "kana-words",
+    "japanese": "いう",
+    "reading": "いう",
+    "romaji": "iu",
+    "meaning": "berkata"
+  },
+  {
+    "id": "kana-word-うえ",
+    "category": "kana-words",
+    "japanese": "うえ",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning": "atas"
+  },
+  {
+    "id": "kana-word-いえ",
+    "category": "kana-words",
+    "japanese": "いえ",
+    "reading": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah"
+  },
+  {
+    "id": "kana-word-あお",
+    "category": "kana-words",
+    "japanese": "あお",
+    "reading": "あお",
+    "romaji": "ao",
+    "meaning": "biru"
+  },
+  {
+    "id": "kana-word-あか",
+    "category": "kana-words",
+    "japanese": "あか",
+    "reading": "あか",
+    "romaji": "aka",
+    "meaning": "merah"
+  },
+  {
+    "id": "kana-word-あき",
+    "category": "kana-words",
+    "japanese": "あき",
+    "reading": "あき",
+    "romaji": "aki",
+    "meaning": "musim gugur"
+  },
+  {
+    "id": "kana-word-いけ",
+    "category": "kana-words",
+    "japanese": "いけ",
+    "reading": "いけ",
+    "romaji": "ike",
+    "meaning": "kolam"
+  },
+  {
+    "id": "kana-word-かお",
+    "category": "kana-words",
+    "japanese": "かお",
+    "reading": "かお",
+    "romaji": "kao",
+    "meaning": "wajah"
+  },
+  {
+    "id": "kana-word-かき",
+    "category": "kana-words",
+    "japanese": "かき",
+    "reading": "かき",
+    "romaji": "kaki",
+    "meaning": "kesemek"
+  },
+  {
+    "id": "kana-word-き",
+    "category": "kana-words",
+    "japanese": "き",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "pohon"
+  },
+  {
+    "id": "kana-word-ここ",
+    "category": "kana-words",
+    "japanese": "ここ",
+    "reading": "ここ",
+    "romaji": "koko",
+    "meaning": "di sini"
+  },
+  {
+    "id": "kana-word-こえ",
+    "category": "kana-words",
+    "japanese": "こえ",
+    "reading": "こえ",
+    "romaji": "koe",
+    "meaning": "suara"
+  },
+  {
+    "id": "kana-word-いく",
+    "category": "kana-words",
+    "japanese": "いく",
+    "reading": "いく",
+    "romaji": "iku",
+    "meaning": "pergi"
+  },
+  {
+    "id": "kana-word-おおきい",
+    "category": "kana-words",
+    "japanese": "おおきい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "meaning": "besar"
+  },
+  {
+    "id": "kana-word-さく",
+    "category": "kana-words",
+    "japanese": "さく",
+    "reading": "さく",
+    "romaji": "saku",
+    "meaning": "mekar"
+  },
+  {
+    "id": "kana-word-すき",
+    "category": "kana-words",
+    "japanese": "すき",
+    "reading": "すき",
+    "romaji": "suki",
+    "meaning": "suka"
+  },
+  {
+    "id": "kana-word-すし",
+    "category": "kana-words",
+    "japanese": "すし",
+    "reading": "すし",
+    "romaji": "sushi",
+    "meaning": "sushi"
+  },
+  {
+    "id": "kana-word-あさ",
+    "category": "kana-words",
+    "japanese": "あさ",
+    "reading": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi"
+  },
+  {
+    "id": "kana-word-そこ",
+    "category": "kana-words",
+    "japanese": "そこ",
+    "reading": "そこ",
+    "romaji": "soko",
+    "meaning": "di situ"
+  },
+  {
+    "id": "kana-word-たかい",
+    "category": "kana-words",
+    "japanese": "たかい",
+    "reading": "たかい",
+    "romaji": "takai",
+    "meaning": "tinggi; mahal"
+  },
+  {
+    "id": "kana-word-くち",
+    "category": "kana-words",
+    "japanese": "くち",
+    "reading": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut"
+  },
+  {
+    "id": "kana-word-つくえ",
+    "category": "kana-words",
+    "japanese": "つくえ",
+    "reading": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja"
+  },
+  {
+    "id": "kana-word-ちかい",
+    "category": "kana-words",
+    "japanese": "ちかい",
+    "reading": "ちかい",
+    "romaji": "chikai",
+    "meaning": "dekat"
+  },
+  {
+    "id": "kana-word-なか",
+    "category": "kana-words",
+    "japanese": "なか",
+    "reading": "なか",
+    "romaji": "naka",
+    "meaning": "dalam; tengah"
+  },
+  {
+    "id": "kana-word-にく",
+    "category": "kana-words",
+    "japanese": "にく",
+    "reading": "にく",
+    "romaji": "niku",
+    "meaning": "daging"
+  },
+  {
+    "id": "kana-word-はな",
+    "category": "kana-words",
+    "japanese": "はな",
+    "reading": "はな",
+    "romaji": "hana",
+    "meaning": "bunga"
+  },
+  {
+    "id": "kana-word-ほし",
+    "category": "kana-words",
+    "japanese": "ほし",
+    "reading": "ほし",
+    "romaji": "hoshi",
+    "meaning": "bintang"
+  },
+  {
+    "id": "kana-word-みみ",
+    "category": "kana-words",
+    "japanese": "みみ",
+    "reading": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga"
+  },
+  {
+    "id": "kana-word-やま",
+    "category": "kana-words",
+    "japanese": "やま",
+    "reading": "やま",
+    "romaji": "yama",
+    "meaning": "gunung"
+  },
+  {
+    "id": "kana-word-よる",
+    "category": "kana-words",
+    "japanese": "よる",
+    "reading": "よる",
+    "romaji": "yoru",
+    "meaning": "malam"
+  },
+  {
+    "id": "kana-word-わたし",
+    "category": "kana-words",
+    "japanese": "わたし",
+    "reading": "わたし",
+    "romaji": "watashi",
+    "meaning": "saya"
+  },
+  {
+    "id": "kana-word-ほん",
+    "category": "kana-words",
+    "japanese": "ほん",
+    "reading": "ほん",
+    "romaji": "hon",
+    "meaning": "buku"
+  },
+  {
+    "id": "kana-word-ねこ",
+    "category": "kana-words",
+    "japanese": "ねこ",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "meaning": "kucing"
+  },
+  {
+    "id": "kana-word-いぬ",
+    "category": "kana-words",
+    "japanese": "いぬ",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing"
+  },
+  {
+    "id": "kana-word-おはよう",
+    "category": "kana-words",
+    "japanese": "おはよう",
+    "reading": "おはよう",
+    "romaji": "ohayou",
+    "meaning": "selamat pagi"
+  },
+  {
+    "id": "kana-word-ありがとう",
+    "category": "kana-words",
+    "japanese": "ありがとう",
+    "reading": "ありがとう",
+    "romaji": "arigatou",
+    "meaning": "terima kasih"
+  },
+  {
+    "id": "kana-word-せんせい",
+    "category": "kana-words",
+    "japanese": "せんせい",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru"
+  },
+  {
+    "id": "kana-word-がくせい",
+    "category": "kana-words",
+    "japanese": "がくせい",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "pelajar"
+  },
+  {
+    "id": "kana-word-がっこう",
+    "category": "kana-words",
+    "japanese": "がっこう",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah"
+  },
+  {
+    "id": "kana-word-にほん",
+    "category": "kana-words",
+    "japanese": "にほん",
+    "reading": "にほん",
+    "romaji": "nihon",
+    "meaning": "Jepang"
+  },
+  {
+    "id": "kana-word-にほんご",
+    "category": "kana-words",
+    "japanese": "にほんご",
+    "reading": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "bahasa Jepang"
+  },
+  {
+    "id": "kana-word-きょう",
+    "category": "kana-words",
+    "japanese": "きょう",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini"
+  },
+  {
+    "id": "kana-word-あした",
+    "category": "kana-words",
+    "japanese": "あした",
+    "reading": "あした",
+    "romaji": "ashita",
+    "meaning": "besok"
+  },
+  {
+    "id": "kana-word-きのう",
+    "category": "kana-words",
+    "japanese": "きのう",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "meaning": "kemarin"
+  },
+  {
+    "id": "kana-word-ともだち",
+    "category": "kana-words",
+    "japanese": "ともだち",
+    "reading": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman"
+  },
+  {
+    "id": "kana-word-でんしゃ",
+    "category": "kana-words",
+    "japanese": "でんしゃ",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta"
+  },
+  {
+    "id": "kana-word-でんわ",
+    "category": "kana-words",
+    "japanese": "でんわ",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "meaning": "telepon"
+  },
+  {
+    "id": "kana-word-かいしゃ",
+    "category": "kana-words",
+    "japanese": "かいしゃ",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "perusahaan"
+  },
+  {
+    "id": "kana-word-びょういん",
+    "category": "kana-words",
+    "japanese": "びょういん",
+    "reading": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit"
+  },
+  {
+    "id": "kana-word-ぎんこう",
+    "category": "kana-words",
+    "japanese": "ぎんこう",
+    "reading": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank"
+  },
+  {
+    "id": "kana-word-としょかん",
+    "category": "kana-words",
+    "japanese": "としょかん",
+    "reading": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "perpustakaan"
+  },
+  {
+    "id": "kana-word-なまえ",
+    "category": "kana-words",
+    "japanese": "なまえ",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "meaning": "nama"
+  },
+  {
+    "id": "kana-word-じかん",
+    "category": "kana-words",
+    "japanese": "じかん",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "meaning": "waktu"
+  },
+  {
+    "id": "kana-word-たべる",
+    "category": "kana-words",
+    "japanese": "たべる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan"
+  },
+  {
+    "id": "kana-word-のむ",
+    "category": "kana-words",
+    "japanese": "のむ",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum"
+  },
+  {
+    "id": "kana-word-よむ",
+    "category": "kana-words",
+    "japanese": "よむ",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "meaning": "membaca"
+  },
+  {
+    "id": "kana-word-くる",
+    "category": "kana-words",
+    "japanese": "くる",
+    "reading": "くる",
+    "romaji": "kuru",
+    "meaning": "datang"
+  },
+  {
+    "id": "kana-word-かえる",
+    "category": "kana-words",
+    "japanese": "かえる",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang"
+  },
+  {
+    "id": "kana-word-ちいさい",
+    "category": "kana-words",
+    "japanese": "ちいさい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "kecil"
+  },
+  {
+    "id": "kana-word-おいしい",
+    "category": "kana-words",
+    "japanese": "おいしい",
+    "reading": "おいしい",
+    "romaji": "oishii",
+    "meaning": "enak"
+  },
+  {
+    "id": "kana-word-パン",
+    "category": "kana-words",
+    "japanese": "パン",
+    "reading": "パン",
+    "romaji": "pan",
+    "meaning": "roti"
+  },
+  {
+    "id": "kana-word-コーヒー",
+    "category": "kana-words",
+    "japanese": "コーヒー",
+    "reading": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "kopi"
+  },
+  {
+    "id": "kana-word-テレビ",
+    "category": "kana-words",
+    "japanese": "テレビ",
+    "reading": "テレビ",
+    "romaji": "terebi",
+    "meaning": "televisi"
+  },
+  {
+    "id": "kana-word-ラジオ",
+    "category": "kana-words",
+    "japanese": "ラジオ",
+    "reading": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio"
+  },
+  {
+    "id": "kana-word-タクシー",
+    "category": "kana-words",
+    "japanese": "タクシー",
+    "reading": "タクシー",
+    "romaji": "takushii",
+    "meaning": "taksi"
+  },
+  {
+    "id": "kana-word-バス",
+    "category": "kana-words",
+    "japanese": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "meaning": "bus"
+  },
+  {
+    "id": "kana-word-ホテル",
+    "category": "kana-words",
+    "japanese": "ホテル",
+    "reading": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel"
+  },
+  {
+    "id": "kana-word-レストラン",
+    "category": "kana-words",
+    "japanese": "レストラン",
+    "reading": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restoran"
+  },
+  {
+    "id": "kana-word-カメラ",
+    "category": "kana-words",
+    "japanese": "カメラ",
+    "reading": "カメラ",
+    "romaji": "kamera",
+    "meaning": "kamera"
+  },
+  {
+    "id": "kana-word-コンピューター",
+    "category": "kana-words",
+    "japanese": "コンピューター",
+    "reading": "コンピューター",
+    "romaji": "konpyuutaa",
+    "meaning": "komputer"
+  },
+  {
+    "id": "kana-word-スーパー",
+    "category": "kana-words",
+    "japanese": "スーパー",
+    "reading": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket"
+  },
+  {
+    "id": "kana-word-アイスクリーム",
+    "category": "kana-words",
+    "japanese": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "meaning": "es krim"
+  }
+]
